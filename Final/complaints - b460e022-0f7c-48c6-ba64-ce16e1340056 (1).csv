@@ -1,0 +1,689 @@
+complaint_number,request_date,complaint_date,complaint_channel,complainer_kind,complainer_name,complaint_topic,complaint_against,original_request_topic,status,decision,termination_date,days_to_treat
+ 368/24,22/11/2023,28/10/2024,online form,citizen,,failure to respond,משרד הבינוי והשיכון,בירור פרטני לעניין קביעת שכר הדירה,termination of treatment,unjustified,04/11/2024,7
+ 217/21,17/11/2020,01/05/2021,online form,citizen,,failure to respond,"בית חולים רמבם""",נתונים על מחלקות פסיכיאטריות ,termination of treatment,unjustified,23/05/2021,22
+ 218/21,29/10/2020,01/05/2021,online form,citizen,,failure to respond,המרכז לבריאות הנפש שער מנשה,נתונים על מחלקות פסיכיאטריות ,termination of treatment,justified,17/11/2021,200
+ 220/21,29/10/2020,01/05/2021,online form,citizen,,failure to respond,"המרכז לבריאות הנפש באר-יעקב נס-ציונה מבן (שב""ס)""",נתונים על מחלקות פסיכיאטריות ,termination of treatment,justified,17/11/2021,200
+ 221/21,29/10/2020,01/05/2021,online form,citizen,,failure to respond,מרכז בריאות הנפש באר שבע,נתונים על מחלקות פסיכיאטריות ,termination of treatment,justified,17/11/2021,200
+ 222/21,27/10/2020,01/05/2021,online form,citizen,,failure to respond,מרכז בריאות הנפש מזור,נתונים על מחלקות פסיכיאטריות ,termination of treatment,justified,17/11/2021,200
+ 223/21,25/10/2020,01/05/2021,online form,citizen,,failure to respond,המרכז הרפואי לבריאות הנפש מעלה הכרמל,נתונים על מחלקות פסיכיאטריות ,termination of treatment,justified,17/11/2021,200
+ 227/21,31/12/2020,02/05/2021,online form,citizen,,failure to respond,משרד המשפטים,יומן שר המשפטים,termination of treatment,justified,30/08/2021,120
+ 232/21,07/03/2021,05/05/2021,online form,non-profit organization,"התנועה לחופש המידע (ער)""",failure to respond,משרד ראש הממשלה,התכנית להעברת חיסונים למדינות זרות,termination of treatment,justified,14/12/2021,223
+ 233/21,14/02/2021,05/05/2021,online form,non-profit organization,"התנועה לחופש המידע (ער)""",failure to respond,משרד ראש הממשלה,חומרי רקע מדיוני קבינט הקורונה ומדיניות הפרסום שלו,termination of treatment,justified,14/12/2021,223
+ 234/21,01/02/2021,05/05/2021,online form,non-profit organization,"התנועה לחופש המידע (ער)""",failure to respond,משרד הבריאות,מרכזים אקוטיים וטיפול בערכות אונס,termination of treatment,justified,14/12/2021,223
+ 235/21,10/02/2021,06/05/2021,online form,citizen,,failure to respond,משרד האוצר,קבלת מידע בנושא הקרן לעסקים בערבות המדינה,termination of treatment,justified,17/11/2021,195
+ 236/21,05/04/2021,06/05/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,מידע ב 3 בקשות,termination of treatment,unjustified,01/06/2021,26
+ 238/21,04/04/2021,07/05/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,דוח ria,termination of treatment,unjustified,01/06/2021,25
+ 240/21,01/03/2021,09/05/2021,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,"דוח מוניטור בנושא יישום דו""ח מבקר שנתי )2010 )61ב""",termination of treatment,justified,20/06/2021,42
+ 244/21,06/12/2020,10/05/2021,online form,citizen,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",failure to respond - מעבר אלנבי פלסטינים,termination of treatment,unjustified,11/05/2021,1
+ 249/21,24/09/2020,12/05/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,פרסום מניעויות דיינים,termination of treatment,unjustified,20/05/2021,8
+ 250/21,24/08/2020,13/05/2021,online form,non-profit organization,המשפט בשירות הזיקנה,failure to respond,משרד הבריאות,חולי ונפטרי נגיף הקורונה,termination of treatment,justified,14/12/2021,215
+ 251/21,23/10/2020,14/05/2021,online form,citizen,,failure to respond,המרכז הירושלמי לבריאות הנפש,נתונים על מחלקות פסיכיאטריות ,termination of treatment,justified,17/11/2021,187
+ 255/21,16/02/2021,18/05/2021,online form,citizen,,failure to respond,משרד הבריאות,מספר נפגעים מתקיפת כלבים,termination of treatment,justified,16/08/2021,90
+ 256/21,04/04/2021,18/05/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,הנחיות בגיור,termination of treatment,unjustified,07/11/2021,173
+ 257/21,18/04/2021,18/05/2021,online form,citizen,,failure to respond,משרד ראש הממשלה,הנחיות בגיור,termination of treatment,justified,07/11/2021,173
+ 258/21,06/01/2020,18/05/2021,online form,citizen,,failure to respond,"צהל""","בקשת מידע לקבלת נתונים שנאספו עליי במיונים לצהל.""",termination of treatment,justified,14/12/2021,210
+ 259/21,20/04/2021,19/05/2021,online form,citizen,,failure to respond,משרד האוצר,פרמיות סטודנטים,termination of treatment,justified,30/08/2021,103
+ 267/21,22/02/2021,23/05/2021,online form,non-profit organization,הטלוויזיה החברתית - לקידום סדר יום חברתי בישראל,failure to respond,"צהל""",נתונים על מספר הפטורים שהצבא הנפיק מסיבות רפואיות-נפשיות ומספר ההתאבדויות של חיילים בתקופה של חמש שנים.,termination of treatment,justified,27/04/2022,339
+ 270/21,08/04/2021,24/05/2021,online form,citizen,,failure to respond,משרד התקשורת,החלטה להיטל קנס על חברת הדואר,termination of treatment,unjustified,17/11/2021,177
+ 284/21,27/05/2021,31/05/2021,online form,citizen,,failure to respond,משרד התיירות,מידע על החברות שזכו במכרז להבאת תיירים מחוסנים,termination of treatment,unjustified,07/07/2021,37
+ 286/21,13/02/2021,02/06/2021,online form,citizen,,failure to respond,משרד ראש הממשלה,גיור (שתי בקשות שונות),termination of treatment,justified,18/08/2021,77
+ 290/21,26/01/2021,05/06/2021,online form,citizen,,failure to respond,המשרד להגנת הסביבה,שיעורי מחזור של בקבוקים גדולים,termination of treatment,justified,28/07/2021,54
+ 294/21,09/02/2021,06/06/2021,online form,non-profit organization,"עתים - יעוץ ומידע במעגל החיים היהודי (ער)""",failure to respond,משרד ראש הממשלה,מערך הגיור,termination of treatment,justified,30/08/2021,85
+ 295/21,28/01/2021,06/06/2021,online form,citizen,,failure to respond,מנהל citizenי אזור יהודה ושומרון,חאן לבונה,termination of treatment,justified,16/08/2021,71
+ 296/21,03/02/2021,07/06/2021,online form,citizen,,failure to respond,"צהל""",חאן לבונה,termination of treatment,justified,18/08/2021,72
+ 299/21,14/04/2021,07/06/2021,online form,citizen,,failure to respond,משטרת ישראל,אכיפה בתחום פסולת הבניה,termination of treatment,unjustified,09/06/2021,2
+ 301/21,06/06/2021,08/06/2021,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,failure to respond סמוכין 273664 ,termination of treatment,unjustified,09/06/2021,1
+ 305/21,24/03/2021,13/06/2021,online form,company,,failure to respond,משרד הבריאות,רשיון יבואן 7315,termination of treatment,justified,14/12/2021,184
+ 306/21,07/12/2020,13/06/2021,online form,non-profit organization,מוסרי,failure to respond,משרד החינוך,שימועים ובדיקות לגבי מנהל,termination of treatment,justified,30/08/2021,78
+ 315/21,22/05/2019,17/06/2021,online form,other,,failure to respond,משרד הרווחה והשירותים החברתיים,הכרעת דין בנושא עגורנים שהועברה למשרד העבודה לטיפול,termination of treatment,unjustified,11/05/2023,693
+ 319/21,22/04/2021,23/06/2021,online form,citizen,,failure to respond,משרד הבריאות,נתוני תמותה בישראל,termination of treatment,justified,27/04/2022,308
+ 320/21,03/02/2021,23/06/2021,online form,citizen,,lack of reasoning,משרד הבריאות,פרוטוקול טיפול תרופתי בחולי קורונה,termination of treatment,unjustified,09/08/2021,47
+ 328/21,23/02/2020,04/07/2021,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,דישון KCL אורגני לשנה בקרקעות ישראל,termination of treatment,justified partially,21/07/2021,17
+ 329/21,02/06/2021,04/07/2021,online form,citizen,,failure to respond,הנהלת בתי המשפט,אי המצאת אסמכתאות ללא סיבה justifiedת בחוק,termination of treatment,unjustified,30/08/2021,57
+ 332/21,21/12/2020,05/07/2021,online form,company,,failure to respond,המשרד להגנת הסביבה,בקשת מידע על מפעל כנפית,termination of treatment,justified,16/03/2022,254
+ 335/21,30/12/2020,08/07/2021,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה, חשיפת יומנו של נציב הכבאות,termination of treatment,justified,10/03/2022,245
+ 337/21,08/03/2020,11/07/2021,online form,citizen,,failure to respond,"צהל""",failure to respond לפי הוראות החוק,termination of treatment,justified,16/03/2022,248
+ 339/21,11/07/2021,11/07/2021,online form,citizen,,failure to respond,משרד הבריאות,"בית החולים הצרפתי, נצרת",termination of treatment,unjustified,21/02/2022,225
+ 341/21,27/04/2021,12/07/2021,online form,citizen,,failure to respond,משרד האוצר,"אישורי מנכל משרד האוצר לוועד מקומי שערי תקווה""",termination of treatment,unjustified,14/02/2022,217
+ 342/21,27/04/2021,12/07/2021,online form,citizen,,failure to respond,משרד הפנים,"אישורי מנכל משרד הפנים והממונה ביו""ש""",termination of treatment,justified,30/08/2021,49
+ 343/21,23/02/2021,12/07/2021,online form,citizen,,failure to respond,משרד הבריאות,מספר המונשמים בכל בתי החולים בשנים הotherונות,termination of treatment,justified,16/03/2022,247
+ 345/21,11/07/2021,13/07/2021,online form,citizen,,failure to respond,רשות המים והביוב,failure to respond סמוכין 279542 11.07.21 ,termination of treatment,unjustified,21/07/2021,8
+ 353/21,06/04/2021,19/07/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,יומני פגישות התייעצות לדוח RIA בקשה 260862,termination of treatment,justified,30/05/2022,315
+ 355/21,24/09/2020,20/07/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,מניעויות דיינים,termination of treatment,unjustified,09/03/2022,232
+ 357/21,25/03/2021,20/07/2021,email,citizen,,lack of reasoning,משרד המשפטים,קבלת העתק צווי איסור פרסום,termination of treatment,unjustified,11/08/2021,22
+ 363/21,20/04/2021,21/07/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,פגישות נציגי משרד התחבורה לדוח הria בקשה 264938,termination of treatment,justified,26/05/2022,309
+ 364/21,04/04/2021,21/07/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,רישום דגם עגורן בפנקס עגורנים בקשה 260898,termination of treatment,justified,26/05/2022,309
+ 367/21,04/04/2021,23/07/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,יומני פגישות עובדי מינהל הבטיחות לדוח הria,termination of treatment,justified,30/08/2021,38
+ 375/21,27/01/2021,27/07/2021,email,citizen,,failure to respond,משטרת ישראל,רישום משטרתי ליוצאי אתיופיה,termination of treatment,justified,30/08/2021,34
+ 382/21,14/07/2021,06/08/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,מי הוא גורם מקצוע למתן תשובה במנהל הבטיחות,termination of treatment,unjustified,09/08/2021,3
+ 387/21,15/02/2021,09/08/2021,online form,citizen,,failure to respond,משרד הבריאות,פניה מס' 643068 ופניה מספר 644187,termination of treatment,justified,16/03/2022,219
+ 395/21,12/08/2021,16/08/2021,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תקצוב משרד התחבורה פרויקטים תחבורתיים וסובסידיות ב,termination of treatment,unjustified,17/08/2021,1
+ 397/21,01/01/2020,16/08/2021,online form,non-profit organization,עתים,failure to respond,הנהלת בתי הדין הרבניים, 9 בקשות שונות שלא נענו מאז 2020,termination of treatment,justified,16/03/2022,212
+ 412/21,19/08/2021,30/08/2021,online form,citizen,,failure to respond,משרד הכלכלה,מידע על הוועדה המייעצת להעברת מעונות היום,termination of treatment,unjustified,03/11/2021,65
+ 417/21,21/06/2021,12/08/2021,email,citizen,,lack of reasoning,רשות מקרקעי ישראל,"אדמות יהודים ביוש""",termination of treatment,justified,03/11/2021,63
+ 420/21,15/07/2021,02/09/2021,online form,other,,failure to respond,רשות המסים בישראל,נתוני הכרה של גופים לפי סעיף 46 א,termination of treatment,unjustified,21/10/2021,49
+ 421/21,31/05/2021,02/09/2021,online form,citizen,,failure to respond,משטרת ישראל,קבלת מידע בעניין כתבי אישו כנגד מי שרכב על גבי אופניים רגילות (לא חשמליים) במצב של שכרות,termination of treatment,justified,03/11/2021,62
+ 457/21,22/07/2021,29/09/2021,online form,citizen,,failure to respond,רשות המסים בישראל,מתן מידע אודות חברת מעטים,termination of treatment,unjustified,10/03/2022,162
+ 466/21,01/09/2021,01/10/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,רשימת תיקים שטרם נסגרו,termination of treatment,justified,09/03/2022,159
+ 475/21,21/06/2021,08/10/2021,online form,citizen,,failure to respond,משרד החינוך,בקשת מידע על תשלומי הורים בחטיבת ביניים בר לב בכפר,termination of treatment,justified,09/02/2022,124
+ 478/21,11/10/2021,11/10/2021,online form,non-profit organization,לביא,failure to respond,משטרת ישראל,תנאי ביקור הנהוגים בהר הבית,termination of treatment,justified partially,07/11/2021,27
+ 495/21,11/08/2021,19/10/2021,online form,citizen,,failure to respond,משרד הבריאות,שאלות לגבי בידוד הווירוס והווריאנטים ,termination of treatment,unjustified,27/10/2021,8
+ 504/21,16/08/2021,24/10/2021,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,משרד המשפטים,מספר כתבי אישום שהגישה פרקליטות המדינה בשנים 2021-2015 בגין הצתה לפי סעיף 448 (א) לחוק העונשין.,termination of treatment,justified,16/03/2022,143
+ 505/21,24/08/2021,24/10/2021,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,הרשות הארצית לכבאות והצלה,מספר מקרי שריפה שנחקרו בשנים 2015-2021 בחשד להצתה,termination of treatment,justified,24/03/2022,151
+ 506/21,23/05/2021,24/10/2021,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,הרשות הארצית לכבאות והצלה,פניות למוקד הכבאות שנעשו בעכו ברמלה ובלוד בתאריכים9/5/21 ועד 17/5/21 .,termination of treatment,justified,10/03/2022,137
+ 507/21,17/09/2021,24/10/2021,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,הרשות הארצית לכבאות והצלה,התקציב שהקצתה הרשות לנושא של שיט וסירות בשנים 2007 עד 2021,termination of treatment,justified,10/03/2022,137
+ 568/21,11/07/2021,01/11/2021,online form,citizen,,failure to respond,משרד החינוך,"תיק אישי המלא במשרד החינוך – כלל המסמכים, מכל תקופה, המצויים במשרד החינוך",termination of treatment,justified,06/03/2022,125
+ 569/21,02/08/2021,01/11/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,"הוצאות משפט""""",termination of treatment,justified,16/03/2022,135
+ 574/21,18/07/2021,06/11/2021,online form,citizen,,failure to respond,משרד הבריאות,11 שאלות בנושא הקורונה,termination of treatment,justified,28/03/2022,142
+ 581/21,01/09/2021,18/11/2021,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,מינויים כמנהל עבודה באתרים,termination of treatment,unjustified,24/11/2021,6
+ 200/22,25/01/2021,09/05/2022,email,non-profit organization,"מען - ארגון עובדים, סניף ירושלים",lack of reasoning,רשות המסים בישראל,בקשה לקבלת המקור החוקי מכוחו מנקים מס הכנסה מעובדים תושבי הרשות הפלסטינית,termination of treatment,justified,01/08/2022,84
+ 233/22,22/12/2021,30/05/2022,email,citizen,,failure to respond,המשרד להגנת הסביבה,מידע על אתר פסולת פיראטי,termination of treatment,justified,12/07/2022,43
+ 298/22,31/03/2022,12/07/2022,email,citizen,,lack of reasoning,רשות המסים בישראל,עסקת הפקעת מקרקעין - מתחם פיכמן חולון,termination of treatment,unjustified,11/08/2022,24
+ 307/22,20/06/2022,21/07/2022,email,citizen,,failure to respond,משרד החינוך,אופן החלת חוק חינוך חובה וחינם,termination of treatment,justified,14/09/2022,55
+ 372/22,02/06/2022,31/08/2022,email,citizen,,failure to respond,רשות המסים בישראל,אירועי שומר החומות - פירוט המידע בדבר פיצויים ששולמו או שהוחלט כי ישולמו בגין נזקי רכוש,termination of treatment,justified,04/05/2023,242
+ 377/22,30/05/2022,06/09/2022,email,citizen,,lack of reasoning,משרד החוץ,פרוטוקול ישיבה מ02/2022,termination of treatment,unjustified,04/05/2023,240
+ 48/23,06/01/2023,09/02/2023,email,non-profit organization,מגן ביטחון,failure to respond,משרד האוצר,פגישות נציגי משרד האוצר עם נציגי משרד הביטחון בנושא הפנסיה הצוברת של משרתי הקבע,termination of treatment,unjustified,08/06/2023,119
+ 62/23,24/08/2022,18/02/2023,email,citizen,,failure to respond,משרד הבריאות,בקשה לקבלת תקנה,termination of treatment,justified,20/04/2023,60
+ 99/23,12/01/2023,28/02/2023,email,citizen,,failure to respond,משרד הבינוי והשיכון,הוראת שעה- מיצוי כושר השתכרות,termination of treatment,justified,09/03/2023,4
+ 150/23,09/03/2023,27/04/2023,email,non-profit organization,אלוט,failure to respond,משרד החינוך,הרחקות של תלמידים עם אוטיזם ממסגרות החינוך,termination of treatment,justified,07/06/2023,41
+ 159/23,17/03/2023,04/05/2023,email,citizen,,failure to respond,הרשות לאכיפה במקרקעין - משרד האוצר,קבלת מידע אודות עסק חוות השלושה,termination of treatment,justified,09/05/2023,5
+ 199/23,10/02/2023,24/05/2023,email,citizen,,failure to respond,משרד המשפטים,"יפוכ יועמ""ש""",termination of treatment,justified,07/06/2023,14
+ 201/23,21/12/2022,23/05/2023,email,citizen,,failure to respond,משרד הבריאות,השמדות קנאביס רפואי,termination of treatment,justified,04/09/2023,103
+ 202/23,15/01/2023,23/05/2023,email,citizen,,failure to respond,משרד הבריאות,רישיונות קונסטרוקטיביים + יבוא ויצוא,termination of treatment,justified,04/09/2023,103
+ 203/23,06/02/2023,24/05/2023,email,citizen,,failure to respond,משרד הבריאות,נתוני משאף קנאביס רפואי,termination of treatment,justified,04/09/2023,103
+ 237/23,12/01/2023,20/06/2023,email,citizen,,failure to respond,משרד הבינוי והשיכון,הגדרת מיצוי כושר השתכרות,termination of treatment,justified,28/06/2023,8
+ 240/23,28/08/2022,19/06/2023,email,citizen,,failure to respond,המשרד להגנת הסביבה,השלכות מקווי מתח עיליים,termination of treatment,justified,01/08/2023,40
+ 263/23,22/10/2022,06/07/2023,email,citizen,,failure to respond,משרד העבודה,מידע על התנהלות הוועדה,termination of treatment,unjustified,31/08/2023,56
+ 405/23,02/08/2023,11/09/2023,email,citizen,,failure to respond,מינהל התכנון,"קבלת חווד בתת""ל 108""",termination of treatment,unjustified,04/04/2024,206
+ 406/23,02/08/2023,11/09/2023,email,citizen,,failure to respond,מינהל התכנון,"מינוי דר אורית ניר""",termination of treatment,unjustified,12/09/2023,1
+ 496/23,22/11/2023,24/12/2023,email,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,קבלת מסמכים,termination of treatment,justified,14/02/2024,52
+ 14/24,02/11/2023,07/01/2024,email,citizen,,failure to respond,משרד החינוך,מסמכים,termination of treatment,unjustified,10/01/2024,0
+ 64/24,20/11/2023,14/02/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,הפעלת תחבורה ציבורית בשעת חירום,termination of treatment,justified,15/05/2024,84
+ 108/24,15/02/2024,03/04/2024,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,תוכנית שנתית של פקידי יערות,termination of treatment,justified,17/04/2024,13
+ 142/24,13/09/2023,02/05/2024,email,non-profit organization,עיתים,failure to respond,המשרד לשירותי דת,מינוי נשים לתפקידים בכירים במועצות דתיות,termination of treatment,justified,29/05/2024,27
+ 143/24,13/03/2024,01/05/2024,email,citizen,,failure to respond,משרד החינוך,היקף סל שירותים,termination of treatment,justified,22/05/2024,20
+ 195/24,07/12/2023,30/05/2024,email,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,נתונים בנושא המלחמה,termination of treatment,justified,05/06/2024,6
+ 218/24,26/03/2024,22/06/2024,online form,citizen,,failure to respond,משרד החינוך,תמריצים לעובדי ההוראה ים המלח,termination of treatment,justified,26/06/2024,3
+ 282/24,18/03/2024,31/07/2024,email,citizen,,failure to respond,משרד הבריאות,פרוטוקול ועדת התקשרויות,termination of treatment,justified,17/09/2024,48
+ 287/24,12/06/2023,01/08/2024,email,citizen,,failure to respond,משרד הבריאות,פרוטוקולים ועדה למניעת הטעיית הציבור,termination of treatment,justified,17/09/2024,41
+ 288/24,19/06/2024,06/08/2024,online form,non-profit organization,מוסרי,failure to respond,"צהל""",גב נועם דן,termination of treatment,justified,23/09/2024,47
+ 343/24,21/08/2023,29/09/2024,email,citizen,,failure to respond,"צהל""",מידע אודות מרכיבי שכר,termination of treatment,justified,14/11/2024,46
+ 200/21,10/02/2021,27/04/2021,online form,citizen,,failure to respond,משטרת ישראל,רשימת כל התלונות שהגיש המתלונן למשטרה נגד גרושתו.,termination of treatment,unjustified,27/01/2022,276
+ 204/21,21/02/2021,27/04/2021,online form,citizen,,failure to respond,משרד המשפטים,failure to respond על בקשת חופש מידע,termination of treatment,unjustified,04/05/2021,7
+ 288/21,01/04/2021,03/06/2021,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד הבריאות,שיווק תמרוקים וניסויים בבעלי חיים,termination of treatment,unjustified,22/06/2021,19
+ 304/21,04/04/2021,10/06/2021,online form,citizen,,failure to respond,משרד האוצר,דרגת שכר בשירות המדינה,termination of treatment,justified,16/11/2021,159
+ 318/21,23/11/2020,22/06/2021,online form,non-profit organization,גישה,failure to respond,משרד ראש הממשלה,החלטת ועדת השרים לביטחון לאומי ב/44 מיום 20.6.10,termination of treatment,justified,14/12/2021,175
+ 323/21,11/04/2021,27/06/2021,online form,other,,failure to respond,משרד הרווחה והשירותים החברתיים,יישום תקנה 3(ב) לתקנות הבטיחות בעבודה,termination of treatment,justified,10/03/2022,256
+ 325/21,02/03/2021,28/06/2021,online form,non-profit organization,"עתים - יעוץ ומידע במעגל החיים היהודי (ער)""",failure to respond,הנהלת בתי הדין הרבניים,הליכי בירור יהדות,termination of treatment,justified,10/03/2022,255
+ 348/21,22/02/2021,15/07/2021,online form,citizen,,lack of reasoning,משרד הפנים,דחיית בקשה לקבלת מידע,termination of treatment,justified,10/08/2021,26
+ 374/21,18/03/2021,26/07/2021,online form,non-profit organization,שקוף,failure to respond,משרד הבריאות,הוצאות קמפיין מגן 2,termination of treatment,justified,23/02/2022,212
+ 381/21,16/02/2021,04/08/2021,online form,non-profit organization,מניפה מנוף לחיים,failure to respond,"צהל""",נתונים בנוגע לחיילים אוכ' ייחודיות ונתוני נשר,termination of treatment,justified,14/02/2022,194
+ 383/21,21/06/2021,07/08/2021,online form,citizen,,lack of reasoning,משרד החינוך,פרטי תתומי  הורים,termination of treatment,unjustified,09/08/2021,2
+ 405/21,28/04/2021,24/08/2021,online form,citizen,,failure to respond,משרד האוצר,מידע לגבי מערכת מלשינון,termination of treatment,justified,30/08/2021,7
+ 428/21,20/08/2021,13/09/2021,online form,citizen,,failure to respond,משרד החינוך,מידע על הכשרת מורים למקצוע,termination of treatment,justified,14/02/2022,154
+ 430/21,08/08/2021,14/09/2021,online form,citizen,,failure to respond,משרד ראש הממשלה,"הוצאות אבטחה מלון דן כרמל, לביקור נתניהו",termination of treatment,justified,16/03/2022,183
+ 432/21,24/06/2021,22/09/2021,online form,citizen,,failure to respond,משרד החינוך,מידע הקיים במשרד החינוך אודות אירוע אלימות שהתרחש כלפי המתלוננת בבית ספר אלונים בקרית אתא,termination of treatment,unjustified,24/03/2022,183
+ 438/21,16/03/2021,25/09/2021,online form,citizen,,failure to respond,משרד המשפטים,הוראות הפרקליטות בדבר המשך חקירה,termination of treatment,justified,10/03/2022,166
+ 446/21,29/06/2021,26/09/2021,online form,non-profit organization,פרטיות ישראל,failure to respond,משרד הבריאות,מאגרי מידע במשרד הבריאות,termination of treatment,justified,28/03/2022,183
+ 473/21,28/01/2021,06/10/2021,online form,citizen,,failure to respond,משרד האוצר,נתונים בדבר תשלום ניכויים לארגוני עובדים,termination of treatment,justified,11/04/2022,188
+ 479/21,04/02/2021,13/10/2021,online form,non-profit organization,החברה להגנת הטבע,failure to respond,המשרד להגנת הסביבה,אירועי הזרמת חירום של שפכים לים,termination of treatment,justified,16/03/2022,154
+ 484/21,02/09/2021,15/10/2021,online form,non-profit organization,פורום משפחות עולים,lack of reasoning,משרד הבינוי והשיכון,דיור ציבורי מכר דירות,termination of treatment,unjustified,10/03/2022,147
+ 492/21,02/09/2021,18/10/2021,online form,non-profit organization,אם תרצו,failure to respond,משרד ראש הממשלה,פריסת הפרסום בין כלי התקשורת,termination of treatment,justified,17/02/2022,122
+ 564/21,16/06/2021,27/10/2021,online form,citizen,,failure to respond,האפוטרופוס הכללי והכונס הרשמי,קרן תובענות יצוגיות,termination of treatment,justified,03/11/2021,7
+ 566/21,01/08/2021,31/10/2021,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,"התכתובת של משרד התחבורה מול מר דינר וחברת אמבולנס סמי, בנוגע לקבלת אישור להסבת הרכב, לרכב רגיל שאינו אמבולנס",termination of treatment,justified,30/05/2022,211
+ 567/21,26/08/2021,31/10/2021,online form,citizen,,failure to respond,רשות המסים בישראל,שאלות בנושא רשימון ייצוא מרוכז,termination of treatment,unjustified,07/11/2021,7
+ 571/21,09/08/2021,02/11/2021,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,"נוהל הטיפול"" של רישום ילד שנולד בחוץ לארץ לcitizenים ישראליים""",termination of treatment,unjustified,24/11/2021,23
+ 572/21,11/04/2021,02/11/2021,online form,other,,failure to respond,"צהל""",מידע לגבי טיפול צה''ל בחיילים שהורשעו בעבירות סמים,termination of treatment,justified,28/03/2022,146
+ 575/21,26/05/2021,08/11/2021,online form,citizen,,failure to respond,המשרד להגנת הסביבה,"רשימת דוחות במסגרת יישום אזור אוויר נקי בחיפה""",termination of treatment,justified,07/02/2022,91
+ 577/21,24/08/2021,09/11/2021,online form,citizen,,failure to respond,משרד החינוך,"עמידה בנהלי חוזרי מנכל - לימודי יסוד""",termination of treatment,justified,07/02/2022,90
+ 580/21,12/08/2021,16/11/2021,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,תקצוב משרד התחבורה פרויקטים תחבורתיים וסובסידיות ב,termination of treatment,justified,09/02/2022,85
+ 585/21,30/09/2021,22/11/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,ישבת  דיינים בבתי דין,termination of treatment,justified,24/03/2022,122
+ 205/22,12/01/2022,11/05/2022,email,citizen,,failure to respond,משרד המשפטים,מידע לעניין נזקי גוף משטרת ישראל,termination of treatment,unjustified,23/05/2022,11
+ 250/22,03/02/2022,07/06/2022,email,citizen,,failure to respond,משרד הבריאות,"דוח הוועדה בנושא גזענות, אפליה והדרה במערכת הבריאות",termination of treatment,justified,01/08/2022,53
+ 251/22,26/04/2022,01/06/2022,email,citizen,,lack of reasoning,משטרת ישראל,תלונות שהוגשו על ידי עיריית נס ציונה על אי שליחת ילדים למסגרת חינוכית,termination of treatment,unjustified,13/06/2022,4
+ 266/22,07/04/2022,15/06/2022,email,citizen,,failure to respond,משרד הבריאות,רישיון תמרוק ל- listerine,termination of treatment,justified,01/08/2022,46
+ 272/22,10/04/2022,20/06/2022,email,company,,failure to respond,משרד העבודה,מפקחי עבודה פעילים ותאריכי הסמכה,termination of treatment,justified,01/08/2022,42
+ 315/22,27/06/2022,28/07/2022,email,citizen,,failure to respond,משרד הבריאות,אי קבלת מענה לפנייה 645414,termination of treatment,unjustified,10/08/2022,13
+ 328/22,04/04/2022,06/08/2022,email,citizen,,lack of reasoning,משרד הבינוי והשיכון,קבלת מסמכים לפרויקט מחיר למשתכן שבירו רמת גן,termination of treatment,justified,24/01/2024,535
+ 362/22,20/01/2022,25/08/2022,email,non-profit organization,המכון הישראלי לדמוקרטיה,failure to respond,משרד ראש הממשלה,נתונים על פעילות מערך הגיור,termination of treatment,justified,14/09/2022,20
+ 383/22,21/02/2022,11/09/2022,email,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,פרוטוקולים - תחנה מרכזית תל אביב,termination of treatment,justified,12/07/2023,304
+ 467/22,12/08/2022,04/12/2022,email,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,נתוני זיהום אוויר חברת קארדאטא בקשת מידע מס' 336640,termination of treatment,justified,09/03/2023,94
+ 17/23,20/09/2022,10/01/2023,email,citizen,,failure to respond,משרד ההתיישבות,תמיכה בגרעיני משימה,termination of treatment,justified,19/02/2023,39
+ 18/23,15/08/2022,10/01/2023,email,citizen,,failure to respond,משרד החינוך,בקשת מידע על ערך הנקודה במספר תקנות,termination of treatment,justified,09/02/2023,29
+ 128/23,19/01/2023,27/03/2023,email,citizen,,lack of reasoning,משרד הכלכלה,מפת חלוקת קרקעות הודיה,termination of treatment,unjustified,20/04/2023,23
+ 156/23,06/03/2023,03/05/2023,email,citizen,,failure to respond,"צהל""",אסמכתאות לקיום הכרזה כשטח אש,termination of treatment,justified,24/05/2023,21
+ 172/23,14/02/2023,09/05/2023,email,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,שריפות פסולת,termination of treatment,justified,31/05/2023,22
+ 183/23,23/03/2023,08/05/2023,email,citizen,,failure to respond,"רשות שוק ההון, הביטוח והחיסכון",חוזרי המפקח על הביטוח,termination of treatment,justified,13/06/2023,33
+ 250/23,15/11/2020,19/06/2023,email,citizen,,failure to respond,המשרד להגנת הסביבה,מטרדי ריח,termination of treatment,justified,08/08/2023,42
+ 270/23,19/06/2022,10/07/2023,email,citizen,,failure to respond,משרד הבריאות,"תנאי מכרז קול הבריאות""""",termination of treatment,justified,10/08/2023,29
+ 314/23,10/03/2023,06/08/2023,email,citizen,,failure to respond,משרד הבריאות,הנחיות המשרד,termination of treatment,justified partially,24/01/2024,169
+ 391/23,25/05/2023,09/08/2023,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,פנימיית אורנים,termination of treatment,justified,28/03/2024,211
+ 395/23,29/03/2023,04/09/2023,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,שירות בתי הסוהר,אסיר נזקק ועיקולים,termination of treatment,justified,24/01/2024,142
+ 396/23,20/03/2023,04/09/2023,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,שירות בתי הסוהר,רכישות בקנטינה,termination of treatment,justified,18/01/2024,136
+ 399/23,15/02/2023,21/08/2023,online form,citizen,,failure to respond,משרד הבריאות,פירוט טיפול בפניות,termination of treatment,unjustified,14/12/2023,99
+ 408/23,03/08/2022,11/09/2023,online form,citizen,,failure to respond,משרד הבריאות,תקציבי פרסום,termination of treatment,justified,10/01/2024,120
+ 409/23,20/02/2023,11/09/2023,online form,citizen,,failure to respond,משרד הבריאות,שיתוק רפה חד,termination of treatment,justified,10/01/2024,120
+ 410/23,28/09/2022,11/09/2023,online form,citizen,,failure to respond,משרד הבריאות,מסקנות ועדה,termination of treatment,justified,10/01/2024,120
+ 411/23,31/01/2023,10/09/2023,email,citizen,,failure to respond,משרד הבריאות,נתונים גולמיים של הגרלות הסטאז',termination of treatment,justified,21/09/2023,9
+ 413/23,29/01/2023,25/07/2023,online form,non-profit organization,קו לעובד,failure to respond,משרד העבודה,פעולות אכיפה של מינהל הבטיחות,termination of treatment,justified,08/04/2024,209
+ 25/24,30/07/2023,23/01/2024,email,citizen,,failure to respond,משרד החינוך,"החלת אופק חדש על החינוך המוכשר""",termination of treatment,justified,26/02/2024,33
+ 98/24,17/07/2023,17/03/2024,online form,citizen,,failure to respond,משרד העבודה,מפעילי עגורן צריח - מנופאים,termination of treatment,unjustified,09/05/2024,52
+ 100/24,20/02/2024,20/03/2024,email,citizen,,failure to respond,משרד הפנים,תיקי פיקוח,termination of treatment,unjustified,20/03/2024,0
+ 122/24,08/02/2024,11/04/2024,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""","גיוס מלשביות וועדות ערר""",termination of treatment,justified,20/06/2024,66
+ 198/24,11/04/2024,03/06/2024,email,citizen,,failure to respond,משרד המשפטים,דרוג עובדים רשות השידור,termination of treatment,unjustified,20/06/2024,17
+ 208/24,01/06/2024,13/06/2024,email,citizen,,failure to respond,משרד המשפטים,עיון בתיק חקירה 16020,termination of treatment,justified,31/07/2024,44
+ 231/24,31/03/2024,04/07/2024,email,citizen,,failure to respond,משרד המשפטים,"חווד משרד המשפטים""",termination of treatment,justified,01/08/2024,28
+ 251/24,09/06/2024,14/07/2024,email,citizen,,failure to respond,משרד התיירות,ביקורת פנימית משרד התיירות,termination of treatment,unjustified,19/08/2024,35
+ 252/24,28/09/2023,14/07/2024,email,citizen,,failure to respond,משרד הבריאות,דבש שרשת רמי לוי ייבאה לישראל,termination of treatment,justified,27/08/2024,43
+ 280/24,01/06/2024,13/06/2024,email,citizen,,failure to respond,משרד המשפטים,עיון בתיק חקירה 16020,termination of treatment,justified,18/09/2024,50
+ 281/24,15/05/2024,25/07/2024,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""","מלשבים שקיבלו מעמד של 'חוזרים בתשובה'""",termination of treatment,justified,16/09/2024,48
+ 293/24,15/05/2024,04/08/2024,email,citizen,,failure to respond,רשות האכיפה והגבייה,4 תיקי חוב,termination of treatment,unjustified,22/08/2024,8
+ 347/24,10/05/2024,06/10/2024,email,citizen,,failure to respond,משרד ראש הממשלה,"ייעוץ לרהמ מטעם משרדו""",termination of treatment,justified,11/11/2024,35
+ 366/24,03/04/2024,27/10/2024,email,citizen,,failure to respond,המשרד להגנת הסביבה,פליטה של מפעל הסמוך למקום מגורים,termination of treatment,justified,03/11/2024,7
+ 282/23,10/06/2023,20/07/2023,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,קבלת הקלטות שיחה,termination of treatment,unjustified,08/08/2023,20
+ 24/22,07/11/2021,20/01/2022,online form,non-profit organization,תחרות - התנועה לחירות בתעסוקה,failure to respond,משרד החינוך,תקצוב ארגוני המורים,termination of treatment,justified,14/02/2022,25
+ 387/24,13/06/2024,08/11/2024,online form,non-profit organization,נדן - סיוע משפטי לחיילים בשירות חובה,failure to respond,"צהל""","תמיכות, עבירות ומשמעת, ועוד",undergoing treatment,,,20
+ 234/22,06/02/2022,31/05/2022,online form,non-profit organization,המכון הישראלי לדמוקרטיה,failure to respond,משרד העבודה,אכיפת איסור העסקה ביום המנוחה,termination of treatment,justified,19/07/2022,49
+ 235/24,31/12/2023,07/07/2024,online form,other,,failure to respond,משרד התחבורה והבטיחות בדרכים,פרטים אודות משאית MAN מדגם TGS,termination of treatment,justified,11/07/2024,4
+ 407/23,25/12/2022,12/09/2023,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד החקלאות ופיתוח הכפר,תקציבי פרסום,termination of treatment,justified,29/02/2024,170
+ 348/24,22/07/2024,07/10/2024,online form,non-profit organization,עתים - יעוץ ומידע במעגל החיים היהודי,failure to respond,המשרד לשירותי דת,ניפוח שעות עבודה לצורך failure to respond,termination of treatment,unjustified,15/10/2024,8
+ 77/23,31/08/2022,02/03/2023,online form,citizen,,failure to respond,משרד החינוך,ציוני בגרות,termination of treatment,justified,29/03/2023,27
+ 231/22,09/03/2022,30/05/2022,online form,citizen,,failure to respond,משרד ראש הממשלה,תמיכות משרד ההתיישבות בהקמה ותפעול של מחלקות סיור ,termination of treatment,justified,13/07/2022,44
+ 213/22,22/02/2022,16/05/2022,online form,non-profit organization,נושמים נקי,failure to respond,משרד הבריאות,מס' פניה 651507,termination of treatment,justified,07/06/2022,22
+ 210/24,11/02/2024,19/06/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,צי האוטובוסים של חברת גלים,termination of treatment,justified,30/07/2024,41
+ 255/23,07/11/2022,01/07/2023,online form,non-profit organization,אזרחים למען אוויר נקי,failure to respond,מנהל citizenי אזור יהודה ושומרון,שריפות פסולת ואכיפה סביבתית,termination of treatment,justified,11/09/2023,72
+ 33/22,19/10/2021,27/01/2022,online form,citizen,,failure to respond,משרד ראש הממשלה,ביצוע החלטות הממשלה,termination of treatment,justified,26/05/2022,119
+ 70/24,09/08/2023,03/03/2024,online form,non-profit organization,קו לעובד,failure to respond,משרד הבריאות,העתק הסכם משרד הבריאות,termination of treatment,justified,18/04/2024,46
+ 635/21,26/10/2021,27/12/2021,online form,citizen,,failure to respond,משרד הבריאות,failure to respond לפנייה דרך חוק חופש המידע,termination of treatment,justified,09/02/2022,44
+ 61/24,08/01/2024,19/02/2024,online form,citizen,,failure to respond,המשרד להגנת הסביבה,failure to respond,termination of treatment,unjustified,26/02/2024,7
+ 495/23,25/12/2022,14/12/2023,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד החקלאות ופיתוח הכפר,פרסום מזון וצער בעלי חיים,termination of treatment,justified,18/03/2024,95
+ 22/22,30/09/2021,19/01/2022,online form,citizen,,failure to respond,משרד הבריאות,כמות ניפוקי קנאביס רפואי בפועל,termination of treatment,justified,26/05/2022,127
+ 496/22,02/10/2022,23/12/2022,online form,citizen,,failure to respond,שירות בתי הסוהר,בקשת מידע,termination of treatment,unjustified,28/12/2022,5
+ 309/24,18/10/2023,03/09/2024,online form,citizen,,lack of reasoning,משרד הבריאות,"התכתבויות בין משרד הבריאות לביח העמק בעניין מרשיי""",termination of treatment,justified,29/10/2024,56
+ 190/23,10/01/2023,16/05/2023,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,דוח בדיקה על השפעת נוכחות שיטור,termination of treatment,justified,28/06/2023,43
+ 329/22,20/06/2021,09/08/2022,online form,other,,failure to respond,משרד המשפטים,"מסמכים שונים -יועמש""",termination of treatment,justified,31/12/2023,509
+ 114/24,17/01/2024,10/04/2024,online form,non-profit organization,תנו לחיות לחיות,failure to respond,"צהל""","כלבי שירות בצהל""",termination of treatment,justified,06/06/2024,57
+ 254/22,27/01/2022,12/06/2022,online form,citizen,,failure to respond,מנהל citizenי אזור יהודה ושומרון,צו 348: הנחיות מנהליות ומידע,termination of treatment,justified,18/07/2022,36
+ 311/24,29/05/2024,04/09/2024,online form,citizen,,failure to respond,"צהל""",הכנסת כספים לרצועת עזה,termination of treatment,justified,15/10/2024,41
+ 92/24,04/02/2024,14/03/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,ביצוע בפועל של קווים שונים 2022-2023,termination of treatment,justified,26/06/2024,105
+ 363/22,29/05/2022,27/08/2022,online form,citizen,,failure to respond,משרד הבריאות,"קבלת דוח מומחה חיצוני""",termination of treatment,justified,04/05/2023,251
+ 304/22,05/07/2022,20/07/2022,online form,citizen,,failure to respond,משרד העבודה,מידע על צהרונים ופרטי קשר,termination of treatment,unjustified,01/08/2022,12
+ 323/23,12/03/2023,11/08/2023,online form,other,,failure to respond,משרד החקלאות ופיתוח הכפר,נוהל המלצות להעסקת עובדים פלסטינים,termination of treatment,justified,31/08/2023,20
+ 131/23,30/01/2023,29/03/2023,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,פיקוח השירות הוטרינרי על אוניות המשמשות להובלת מקנה,termination of treatment,justified,24/08/2023,148
+ 188/23,22/12/2022,14/05/2023,online form,citizen,,failure to respond,משרד הבריאות,מידע בדבר פעילות לאכיפת נוהל השתתפות סטודנטים ,termination of treatment,justified,25/07/2023,72
+ 296/23,20/04/2023,27/07/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""","פרישה ושחרור מצהל נוכח נסיבות רפואיות""",termination of treatment,justified,21/09/2023,56
+ 415/23,01/08/2023,12/09/2023,online form,citizen,,failure to respond,משרד התיירות,נהלי משרד התיירות,termination of treatment,justified,29/02/2024,170
+ 611/21,13/12/2021,15/12/2021,online form,citizen,,lack of reasoning,רשות המסים בישראל,פטור חלקי ממס רכישה לנכה,termination of treatment,unjustified,10/03/2022,85
+ 484/23,17/04/2023,21/11/2023,online form,citizen,,failure to respond,משרד הבריאות,פורמולת מזון לתינוקות נוטרילון,termination of treatment,justified,31/01/2024,71
+ 99/22,20/10/2021,13/03/2022,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד החקלאות ופיתוח הכפר,היתרי מופעים עם בעלי חיים,termination of treatment,justified,30/05/2022,78
+ 220/23,30/03/2023,08/06/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",תקופת ההסתגלות השנייה,termination of treatment,justified,08/02/2024,245
+ 84/22,01/02/2022,02/03/2022,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,בקשה לקבלת מידע מכח חוק חופש המידע,termination of treatment,unjustified,07/03/2022,6
+ 68/24,22/01/2024,26/02/2024,online form,citizen,,failure to respond,משרד הבריאות,הרכב הוועדה בנושא המדיניות על הסיגריות האלקטרוניות,termination of treatment,justified,13/05/2024,77
+ 344/23,17/07/2023,20/08/2023,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,שליחת מסמכים,termination of treatment,unjustified,29/01/2024,162
+ 612/21,15/12/2021,15/12/2021,online form,citizen,,failure to respond,משרד החינוך,בתי ספר מצטיינים,termination of treatment,justified,28/04/2022,134
+2/22,09/11/2021,02/01/2022,online form,citizen,,failure to respond,משרד החוץ,בקשה לקבלת מידע לפי חוק חופש המידע,termination of treatment,unjustified,10/03/2022,68
+ 468/23,10/09/2023,10/11/2023,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,failure to respond סמוכין 388601  10.09.23,termination of treatment,unjustified,14/12/2023,34
+ 264/24,01/04/2024,16/07/2024,online form,citizen,,failure to respond,משרד העבודה,אישור מסירת עיצום,termination of treatment,unjustified,30/07/2024,14
+ 404/24,19/05/2024,25/11/2024,online form,other,,failure to respond,משרד המשפטים,מידע מפרקליטות המדינה פלילי,undergoing treatment,,,3
+ 113/24,14/01/2024,10/04/2024,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד הבריאות,חלופות ניסויים בבעלי חיים,termination of treatment,justified,10/06/2024,61
+ 334/24,09/04/2024,19/09/2024,online form,citizen,,failure to respond,משרד החינוך,חוק יום הזיכרון ליצחק רבין במערכת החינוך,termination of treatment,justified,23/09/2024,4
+ 416/22,02/05/2022,26/10/2022,online form,other,,failure to respond,משרד המשפטים,תלונה על failure to respond לבקשה לקבלת מידע על פי החוק,termination of treatment,justified,03/05/2023,189
+ 53/22,18/01/2022,10/02/2022,online form,citizen,,lack of reasoning,בית חולים איכילוב,מידע בנושאים שונים בנושא קורונה,termination of treatment,unjustified,21/02/2022,11
+ 72/24,04/02/2024,04/03/2024,online form,citizen,,failure to respond,משרד הבריאות,תוצאות הטיפול בחברת סנקי,termination of treatment,justified,02/05/2024,59
+ 415/22,05/09/2022,24/10/2022,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",קוד מוסד לישיבות,termination of treatment,justified,03/05/2023,191
+ 139/23,02/02/2023,03/04/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""",רכישת זכויות בגין שנים קודמות בשירות קבע,termination of treatment,justified,10/07/2023,98
+ 142/22,27/02/2022,31/03/2022,online form,citizen,,failure to respond,המשרד לביטחון לאומי,מתן נימוקים אודות החמרה בקריטריונים לחידוש רישיון,termination of treatment,justified partially,28/04/2022,28
+ 293/23,14/04/2023,26/07/2023,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,"מענה מהמנכל""",termination of treatment,unjustified,30/07/2023,4
+ 498/23,03/08/2023,27/12/2023,online form,citizen,,failure to respond,מנהל citizenי אזור יהודה ושומרון,הנחיות מנהליות וחקיקה ראשית ומשנית בצו 348,termination of treatment,justified,03/06/2024,159
+ 114/22,16/02/2022,22/03/2022,online form,citizen,,failure to respond,משרד החינוך,גב' דלית שטאובר - ניגוד עניינים וחוות דעת,termination of treatment,justified,06/04/2022,15
+ 208/23,03/01/2023,30/05/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משרד המשפטים,הפגנות ומחאות,termination of treatment,justified,12/07/2023,43
+ 450/22,09/07/2022,24/11/2022,online form,citizen,,failure to respond,משרד הפנים,אישור ונימוקים להעלאת ארנונה - שערי תקווה,termination of treatment,unjustified,22/12/2022,28
+ 127/24,08/08/2023,24/04/2024,online form,citizen,,failure to respond,משרד הבריאות,פרוטוקולים של הועדה הציבורית להרחבת סל השירותים,termination of treatment,justified,18/07/2024,85
+ 120/23,07/02/2023,16/03/2023,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,מידע בנושא הרפורמה בחינוך המיוחד,termination of treatment,justified,24/05/2023,69
+ 15/22,04/10/2021,16/01/2022,online form,citizen,,failure to respond,משרד הבריאות,פרטי שכר ראש מטה מגן ישראל,termination of treatment,justified,28/03/2022,71
+ 520/22,30/11/2022,30/12/2022,online form,citizen,,failure to respond,משטרת ישראל,אי קבלת מענה מפניות הציבור,termination of treatment,unjustified,11/01/2023,12
+ 46/23,26/12/2022,08/02/2023,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד החינוך,בעלי חיים במוסדות חינוך,termination of treatment,justified,02/03/2023,22
+ 228/24,10/01/2024,01/07/2024,online form,citizen,,failure to respond,משרד המשפטים,"חוד היועמ""ש שהוגשה בעע""מ 6542/15""",termination of treatment,justified,08/08/2024,38
+ 250/24,19/11/2023,15/07/2024,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,"צהל""",אישור חיילים לשימוש בזרעם,termination of treatment,justified,19/08/2024,35
+ 135/24,27/02/2022,02/05/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע דחוף,termination of treatment,unjustified,25/07/2024,84
+ 32/22,04/01/2022,26/01/2022,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,"בקשה לקבלת מידע לפי חוק חופש המידע התשנח - 1998""",termination of treatment,unjustified,27/02/2022,32
+ 31/24,25/12/2023,30/01/2024,online form,citizen,,failure to respond,המשרד לביטחון לאומי,מינויי השר לפקידי רישוי לכלי יריה,termination of treatment,justified,04/04/2024,65
+ 392/24,18/04/2023,10/11/2024,online form,citizen,,failure to respond,משרד הבריאות,צוות איפכא מסתברא,undergoing treatment,,,18
+ 184/22,16/03/2022,26/04/2022,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,מסמכים מהחלטת פקיד היערות להשגה,termination of treatment,justified partially,28/06/2022,63
+ 373/24,18/06/2024,01/11/2024,online form,citizen,,failure to respond,משרד הבריאות,מחלת הסרטן במושב מאור (מחוז חיפה),undergoing treatment,,,27
+ 356/24,31/01/2021,11/10/2024,online form,citizen,,failure to respond,משרד הבריאות,קבלת מידע (קיים),termination of treatment,unjustified,27/10/2024,16
+ 36/23,14/03/2022,06/02/2023,online form,citizen,,failure to respond,משרד החינוך,ביקורת שעות בחטיבות עליונות,termination of treatment,justified,23/02/2023,17
+ 266/23,31/01/2023,09/07/2023,online form,non-profit organization,יוצאים לשינוי,failure to respond,"צהל""","בוגרי החינוך החרדי בצהל""",termination of treatment,justified,21/09/2023,74
+ 127/23,28/02/2023,26/03/2023,online form,citizen,,failure to respond,משרד המשפטים,failure to respond,termination of treatment,unjustified,10/05/2023,45
+ 266/24,16/05/2024,17/07/2024,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,פרוטוקולים,termination of treatment,unjustified,08/10/2024,84
+ 401/24,14/07/2024,20/11/2024,online form,citizen,,failure to respond,משרד הבריאות,דוחות בקרה בגני תקשורת במודיעין,undergoing treatment,,,8
+ 22/23,12/12/2022,16/01/2023,online form,citizen,,failure to respond,"צהל""",מסמכים אישיים,termination of treatment,justified,12/03/2023,55
+ 67/23,18/12/2022,21/02/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""",תשלום וטיפול בבקשות פורשים לקבלת העתק מן התיק האיש,termination of treatment,justified,11/05/2023,79
+ 93/22,15/12/2021,13/03/2022,online form,citizen,,failure to respond,משרד הביטחון,תקצוב,termination of treatment,justified,24/03/2022,11
+ 406/24,20/07/2023,26/11/2024,online form,citizen,,failure to respond,משרד הבריאות,מסמך מפורט מי היו חברי וועדת הערר,undergoing treatment,,,2
+ 183/24,07/05/2024,22/05/2024,online form,citizen,,lack of reasoning,הנהלת בתי הדין הרבניים,"מאגר שות של מבחני טוענים רבניים""",termination of treatment,unjustified,13/06/2024,22
+ 207/23,11/12/2022,30/05/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משטרת ישראל,אכיפה נגד מחאות,termination of treatment,justified,25/07/2023,56
+ 132/24,20/03/2024,01/05/2024,online form,citizen,,failure to respond,משרד העבודה,פרסום נהלים מינהל הבטיחות והבריאות,termination of treatment,justified,12/09/2024,134
+ 55/24,20/10/2023,13/02/2024,online form,non-profit organization,"מרכז רקמן, אוניברסיטת בר אילן",failure to respond,משרד המשפטים,מידע לשנתון סטטיסטי- סיוע משפטי,termination of treatment,unjustified,06/03/2024,23
+ 308/24,19/03/2024,02/09/2024,online form,citizen,,failure to respond,משרד הבריאות,קבלת מידע על מכונים לצילום רנטגן דנטליים,termination of treatment,justified,10/10/2024,38
+ 281/23,31/01/2023,19/07/2023,online form,citizen,,failure to respond,משרד המשפטים,ועדת החמישה,termination of treatment,justified,24/07/2023,5
+ 276/24,05/05/2024,28/07/2024,online form,citizen,,lack of reasoning,משטרת ישראל,קבלת רשימת תלונות שהוגשו,termination of treatment,unjustified,31/07/2024,3
+ 100/23,18/01/2023,06/03/2023,online form,non-profit organization,ק.מ.ח. קידום מקצועי חרדי ער,failure to respond,רשות החברות הממשלתיות,נבחרת הדירקטורים 2022,termination of treatment,justified,24/05/2023,79
+ 80/24,05/11/2023,08/03/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond סמוכין 394563 מתאריך 05.11.23 ,termination of treatment,unjustified,13/03/2024,5
+ 312/23,12/06/2023,06/08/2023,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,"failure to respond אורן לביא מנכל לבקשת מידע 375457 """,termination of treatment,unjustified,14/12/2023,130
+ 90/24,12/02/2024,14/03/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,פעילות אוטובוס מס' רישוי 37-789-55,termination of treatment,unjustified,03/04/2024,21
+ 257/24,15/02/2024,15/07/2024,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,משרד הבריאות,נטילת זרע מנפטר - כריתת אשכים,termination of treatment,justified,21/08/2024,37
+ 247/22,17/10/2021,07/06/2022,online form,citizen,,failure to respond,משרד החינוך,קיצור שבוע הלימודים,termination of treatment,justified,13/06/2022,6
+ 210/23,03/01/2023,30/05/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משרד המשפטים,נהלים ומדיניות- פרקליטות המדינה,termination of treatment,justified,12/07/2023,43
+ 292/23,04/05/2023,26/07/2023,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,גיור בישראל,termination of treatment,justified,31/07/2023,5
+ 230/22,05/04/2022,28/05/2022,online form,citizen,,lack of reasoning,משרד הבינוי והשיכון,גילוי מסמכים בעניין הצמדת מדד תשומות הבניה,termination of treatment,unjustified,30/05/2022,2
+ 320/22,09/09/2021,02/08/2022,online form,citizen,,failure to respond,משרד הבריאות,דוח ביקורת מלון פלזה - נוף הגליל,termination of treatment,justified,09/02/2023,191
+ 135/23,11/12/2022,02/04/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""","אי-מתן מענה (מסד)""",termination of treatment,justified,28/06/2023,87
+ 638/21,23/12/2021,27/12/2021,online form,company,,failure to respond,משרד הכלכלה,מענה לחופש המידע,termination of treatment,unjustified,10/03/2022,73
+ 414/23,06/08/2023,12/09/2023,online form,citizen,,failure to respond,המשרד לירושלים ומורשת,ועדת איתור ליועמש,termination of treatment,unjustified,20/09/2023,8
+ 277/23,20/03/2022,19/07/2023,online form,citizen,,failure to respond,משרד התיירות,אין מתן מענה,termination of treatment,unjustified,29/02/2024,225
+ 500/22,02/08/2022,25/12/2022,online form,non-profit organization,החברה להגנת הטבע,failure to respond,המשרד להגנת הסביבה,תאורה באסדת הגז לוויתן,termination of treatment,justified,03/05/2023,129
+ 241/24,30/05/2024,08/07/2024,online form,citizen,,failure to respond,משרד הבריאות,תלונה על קבלת מידע שלא על פי החוק,termination of treatment,justified,08/08/2024,31
+ 361/24,23/09/2023,14/10/2024,online form,citizen,,failure to respond,משרד החינוך,תיק אישי של התמיד ,termination of treatment,unjustified,16/10/2024,2
+ 391/24,22/08/2023,10/11/2024,online form,citizen,,failure to respond,משרד הבריאות,חיסון נשים הרות נגד נגיף הקורונה,undergoing treatment,,,18
+ 320/24,24/04/2022,11/09/2024,online form,citizen,,failure to respond,משרד החינוך,תיק אישי,termination of treatment,unjustified,16/09/2024,5
+ 224/24,11/02/2024,25/06/2024,online form,non-profit organization,העמותה הקהילתית גבעת מרדכי,failure to respond,משרד הבריאות,חיסון הפפילומה - יעילות ותופעות,termination of treatment,justified,12/08/2024,48
+ 430/23,15/09/2023,14/10/2023,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,קבלת סיכום טיפול בפניה,termination of treatment,unjustified,18/12/2023,65
+ 227/22,18/05/2022,24/05/2022,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,"דוח תיקופים מפורט""",termination of treatment,justified,10/08/2022,78
+ 216/22,09/01/2022,18/05/2022,online form,non-profit organization,התעוררות בירושלים,failure to respond,המשרד להגנת הסביבה,פחים כתומים עיריית ירושלים,termination of treatment,justified,01/08/2022,75
+ 57/22,12/12/2021,14/02/2022,online form,citizen,,failure to respond,משרד ראש הממשלה,הספריה הלאומית,termination of treatment,justified,26/05/2022,101
+ 180/23,21/01/2023,10/05/2023,online form,citizen,,failure to respond,משטרת ישראל,הפגנה מיום 14/01/2023,termination of treatment,justified partially,29/06/2023,50
+ 488/22,22/10/2022,22/12/2022,online form,citizen,,failure to respond,הנהלת בתי המשפט,בקשת מידע צווים שיפוטים,termination of treatment,unjustified,22/12/2022,0
+ 95/22,31/08/2021,13/03/2022,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד החקלאות ופיתוח הכפר,ניצול תקציבים,termination of treatment,justified,19/05/2022,67
+ 146/24,22/10/2023,06/05/2024,online form,citizen,,failure to respond,משרד הבינוי והשיכון,בירור בפרויקט מחיר למשתכן,termination of treatment,justified,13/06/2024,38
+ 213/24,05/02/2024,20/06/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תוכנית התחבורה הציבורית מואז שדות דן,termination of treatment,justified,31/07/2024,41
+ 303/22,29/05/2022,20/07/2022,online form,citizen,,failure to respond,משרד החינוך,פרטי מפעילי קייטנות,termination of treatment,justified,28/07/2022,8
+ 248/23,07/11/2022,26/06/2023,online form,non-profit organization,אזרחים למען אוויר נקי,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""","נתונים על שריפות פסולת ועל אכיפה סביבתית ביוש""",termination of treatment,unjustified,28/06/2023,3
+ 34/22,15/11/2021,28/01/2022,online form,citizen,,failure to respond,משרד הבריאות,הסברה בציבור החרדי,termination of treatment,justified,28/03/2022,59
+ 400/23,10/07/2023,07/09/2023,online form,citizen,,failure to respond,מנהל citizenי אזור יהודה ושומרון,בניין ארמון הנציב,termination of treatment,unjustified,29/11/2023,83
+ 32/23,05/12/2022,31/01/2023,online form,citizen,,failure to respond,משרד הבריאות,בקשה לקבלת מידע ומסמכים בעניינה של המיוצגת ,termination of treatment,justified,08/06/2023,128
+ 63/23,11/01/2023,19/02/2023,online form,citizen,,failure to respond,משרד החינוך,"השעיית תלמידי חינוך מיוחד בביס האלה במודיעין""",termination of treatment,justified,29/03/2023,38
+ 35/23,06/12/2022,06/02/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""",נתונים אודות פיטורים בעילת צמצום כוחות סדירים,termination of treatment,justified,11/05/2023,94
+ 55/22,31/01/2022,14/02/2022,online form,citizen,,failure to respond,משרד המשפטים,"ועדת איתור ליועמש""",termination of treatment,justified,11/09/2022,209
+ 448/22,09/10/2022,24/11/2022,online form,citizen,,failure to respond,משרד המשפטים,בקשת מידע,termination of treatment,unjustified,22/12/2022,28
+ 316/24,13/06/2024,05/09/2024,online form,other,,failure to respond,משרד האוצר,ישיבות שר האוצר עם הגורמים המקצועיים במשרדו,termination of treatment,justified,07/10/2024,32
+ 287/22,22/05/2022,04/07/2022,online form,non-profit organization,עד כאן - צעירים למען ישראל,failure to respond,מנהל citizenי אזור יהודה ושומרון,העסקת פלסטינים במנהל הcitizenי,termination of treatment,justified partially,05/07/2022,1
+ 428/23,04/07/2023,11/10/2023,online form,citizen,,failure to respond,משרד ראש הממשלה,failure to respond לבקשת מידע סמוכין 378452   04.07.23   ,termination of treatment,unjustified,14/12/2023,64
+ 307/23,25/06/2023,01/08/2023,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,היתרים להעסקת עובדים זרים,termination of treatment,justified,10/08/2023,9
+ 317/23,25/05/2023,09/08/2023,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,מידע אישי,termination of treatment,justified,28/03/2024,232
+ 150/24,10/01/2024,10/05/2024,online form,other,,failure to respond,משרד התחבורה והבטיחות בדרכים,פרטים אודות מכון הדרום,termination of treatment,justified,12/08/2024,95
+ 497/23,24/05/2023,26/12/2023,online form,other,,failure to respond,משרד הבריאות,זיהומים ומכונות אקמו,termination of treatment,justified,29/01/2024,34
+ 276/22,07/02/2022,22/06/2022,online form,citizen,,failure to respond,משרד הבריאות,תגובות לתלונות,termination of treatment,justified,11/09/2022,81
+ 228/22,05/01/2022,25/05/2022,online form,citizen,,failure to respond,שירות בתי הסוהר,יחידת צור,termination of treatment,justified,15/06/2022,21
+ 122/22,09/08/2021,24/03/2022,online form,citizen,,failure to respond,משרד הבריאות,פנייתי לחוק חופש המידע במשרד הבריאות 283829,termination of treatment,justified,13/04/2022,20
+ 220/22,06/03/2022,19/05/2022,online form,citizen,,failure to respond,האפוטרופוס הכללי והכונס הרשמי,בקשות - וועד מקומי פדואל,termination of treatment,justified,10/08/2022,83
+ 404/22,27/04/2022,16/10/2022,online form,citizen,,failure to respond,"צהל""","נתונים אודות חיילים בודדים בצהל""",termination of treatment,justified,03/05/2023,199
+ 594/21,24/06/2021,24/11/2021,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,קבלת תיק אישי,termination of treatment,justified,14/04/2022,141
+ 39/23,06/01/2023,07/02/2023,online form,non-profit organization,מגן ביטחון,failure to respond,משרד האוצר,"פעילות משרד האוצר ביחס לפנסיה הצוברת בצהל""",termination of treatment,unjustified,08/06/2023,121
+ 51/24,07/11/2023,07/02/2024,online form,citizen,,failure to respond,"צהל""","קבלת הצו על הצבת שלט שטח צבאי סגור"" בשטח פרטי""",termination of treatment,justified,15/04/2024,68
+ 119/22,06/02/2022,23/03/2022,online form,citizen,,failure to respond,רשות מקרקעי ישראל,הקצאת מקרקעין,termination of treatment,unjustified,31/03/2022,8
+ 31/22,14/12/2021,26/01/2022,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,בקשה לקבלת מידע אודות אישורי כבאות במחוז צפון,termination of treatment,justified,03/03/2022,36
+ 213/23,21/02/2023,31/05/2023,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,נשים מאוימות בלוד,termination of treatment,justified,13/07/2023,43
+ 82/24,18/12/2023,09/03/2024,online form,non-profit organization,החברה להגנת הטבע,failure to respond,משרד החקלאות ופיתוח הכפר,דיג מכמורת לצרכי מחקר מצפון לדור,termination of treatment,justified,27/03/2024,18
+ 613/21,04/11/2021,16/12/2021,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,מניעת נישואי קרובים- בנק הזרע,termination of treatment,justified,09/02/2022,55
+ 131/24,26/02/2024,30/04/2024,online form,citizen,,failure to respond,משרד המשפטים,כתבי אישום בעבירות הסתה  לפי דת,termination of treatment,unjustified,06/05/2024,6
+ 493/23,13/10/2023,13/12/2023,online form,citizen,,failure to respond,משרד המשפטים,failure to respond  סמוכין 392585 מתאריך 13.10.23 ,termination of treatment,unjustified,14/12/2023,1
+ 108/22,05/01/2022,20/03/2022,online form,citizen,,failure to respond,משרד הבריאות,קבלת הוראת נוהל,termination of treatment,justified,11/04/2022,22
+ 290/24,11/04/2024,12/08/2024,online form,citizen,,failure to respond,משרד הבריאות,"צטמ וצוות להתפרצות הפוליו - ניגודי עניינים""",termination of treatment,justified,26/09/2024,46
+ 140/24,20/08/2023,02/05/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע דחוף,termination of treatment,unjustified,25/07/2024,84
+ 294/22,22/03/2022,13/07/2022,online form,citizen,,failure to respond,משטרת ישראל,נהלי חקירת ירי,termination of treatment,justified,28/08/2022,46
+ 275/23,18/07/2023,18/07/2023,online form,non-profit organization,תורת לחימה,failure to respond,"צהל""",מימון לתהליכי שינוי מין,termination of treatment,justified,21/09/2023,65
+ 394/23,29/03/2023,04/09/2023,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,שירות בתי הסוהר,אסירים זרים,termination of treatment,justified,24/01/2024,143
+ 325/23,19/04/2022,14/08/2023,online form,citizen,,failure to respond,משרד התיירות,מידע דחוף,termination of treatment,justified,07/03/2024,206
+5/22,27/05/2021,03/01/2022,online form,other,,failure to respond,משרד הבריאות,וועדת ההיגוי לטיפול במרחבים סגורים ,termination of treatment,justified,26/05/2022,143
+ 225/24,14/03/2024,26/06/2024,online form,non-profit organization,המרכז להעצמת האזרח,failure to respond,משרד העבודה,"יישום החלטת ממשלה 1226 - הוקרה, סיוע ותגמול לחיילי מילואים המשרתים במלחמת חרבות ברזל"" ותיקון החלטת ממשלה""",termination of treatment,justified,03/07/2024,7
+ 302/24,17/04/2024,25/08/2024,online form,citizen,,failure to respond,משרד הבריאות,מפעלי מזון במחוז חיפה,termination of treatment,justified,08/10/2024,44
+ 97/24,19/09/2023,17/03/2024,online form,citizen,,failure to respond,משרד העבודה,עגורנאים,termination of treatment,justified,29/05/2024,73
+ 141/23,16/11/2022,03/04/2023,online form,citizen,,failure to respond,משרד הבריאות,מסמכים ביחס לדיווח על אשפוזו ומותו של איתי למברסקי,termination of treatment,justified,07/09/2023,157
+ 217/22,14/03/2022,19/05/2022,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,מתן כמויות  של מים שהוזרמו לאגודה ובקשות נוספות,termination of treatment,justified,13/07/2022,56
+ 311/23,29/05/2023,06/08/2023,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,אלין בית נועם - פרוטוקולים,termination of treatment,justified,19/09/2023,44
+ 366/23,23/07/2023,24/08/2023,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,פיילוט הסעות בחינוך המיוחד,termination of treatment,unjustified,30/08/2023,6
+ 605/21,24/08/2021,07/12/2021,online form,citizen,,failure to respond,"צהל""","דין משמעתי של חיילי צהל""",termination of treatment,justified,14/02/2022,69
+ 36/22,26/12/2021,30/01/2022,online form,citizen,,failure to respond,בית חולים וולפסון,שאלוני שביעות רצון חדר 4,termination of treatment,justified,27/02/2022,28
+ 317/24,29/04/2024,08/09/2024,online form,non-profit organization,העמותה הקהילתית גבעת מרדכי,failure to respond,משרד הבריאות,ניגודי עניינים בועדת סל התרופות,termination of treatment,justified,15/10/2024,37
+ 596/21,02/05/2021,26/11/2021,online form,other,,failure to respond,המשרד להגנת הסביבה,אכיפה ורגולציה בענפי החקלאות מהחי,termination of treatment,justified,26/05/2022,182
+8/23,23/11/2022,08/01/2023,online form,citizen,,failure to respond,המשרד להגנת הסביבה,מסדרון וצוואר בקבוק אקולוגי גדרה,termination of treatment,unjustified,22/05/2024,500
+ 74/23,28/12/2022,01/03/2023,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד הבריאות,חלופות ניסויים משרד הבריאות,termination of treatment,justified,15/06/2023,106
+ 385/24,06/05/2023,07/11/2024,online form,citizen,,failure to respond,משרד הבריאות, דיווחים על תופעות לוואי בדף הפייס,undergoing treatment,,,21
+3/24,19/09/2023,02/01/2024,online form,non-profit organization,מרכז טאוב לחקר המדיניות החברתית בישראל,failure to respond,המשרד להגנת הסביבה,דוחות נתוני איכות אויר,termination of treatment,unjustified,18/01/2024,16
+ 298/23,15/06/2023,27/07/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משרד המשפטים,עיון בהקדש,termination of treatment,justified,24/08/2023,28
+ 397/24,15/09/2024,14/11/2024,online form,citizen,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",הכנסת והוצאת כספים אל ומרצועת עזה,termination of treatment,unjustified,17/11/2024,3
+ 58/24,05/02/2024,14/02/2024,online form,citizen,,failure to respond,משרד המשפטים,חופש מידע ,termination of treatment,unjustified,15/02/2024,1
+ 351/24,23/11/2023,08/10/2024,online form,citizen,,failure to respond,רשות החברות הממשלתיות,התקשרויות מערכת הביטחון הוראת שעה,termination of treatment,justified,14/11/2024,37
+ 231/23,10/05/2023,15/06/2023,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,קיצור ימי לימודים תשפג,termination of treatment,justified,06/07/2023,21
+ 33/24,27/12/2023,01/02/2024,online form,citizen,,failure to respond,המשרד לביטחון לאומי,נתונים על בקשות לקבלת רשיון נשק,termination of treatment,justified,29/02/2024,28
+ 162/22,21/11/2021,13/04/2022,online form,company,,failure to respond,משרד הרווחה והשירותים החברתיים,אישור או התנגדות למינוי מנהלי עבודה בבנייה,termination of treatment,justified,11/09/2022,151
+ 402/24,15/07/2024,20/11/2024,online form,other,,failure to respond,מנהל citizenי אזור יהודה ושומרון,מסמכים בגין בקשה להיתר בניה,undergoing treatment,,,8
+ 255/22,23/02/2022,13/06/2022,online form,non-profit organization,ארגון אלמנות ויתומי צהל,failure to respond,"צהל""","נתונים תגמולים אלמנות צהל""",termination of treatment,justified,04/09/2022,83
+ 134/23,22/01/2023,02/04/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",אי-מתן מענה,termination of treatment,justified,10/08/2023,130
+ 479/22,22/06/2022,12/12/2022,online form,citizen,,failure to respond,משרד הבינוי והשיכון,"הגרלה 472 פרוייקט השמורה"" - האחים חסיד""",termination of treatment,justified,05/01/2023,24
+ 89/24,11/02/2024,14/03/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,נוהל פריסת פקחים בקווי עליה מכל הדלתות,termination of treatment,justified,22/05/2024,70
+ 145/23,15/03/2023,16/04/2023,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,פרוטוקול ועדת האכיפה,termination of treatment,justified,18/12/2023,246
+ 123/22,23/08/2021,24/03/2022,online form,citizen,,failure to respond,משרד הבריאות,פנייה מספר 285393,termination of treatment,unjustified,09/05/2022,46
+ 487/22,18/10/2022,22/12/2022,online form,citizen,,failure to respond,משרד החינוך,"פרוייקט צילה""",termination of treatment,justified,20/02/2023,60
+ 58/22,14/02/2022,14/02/2022,online form,other,,failure to respond,משרד ראש הממשלה,גיורים וועדות חריגים,termination of treatment,justified,26/05/2022,101
+ 180/22,10/03/2022,25/04/2022,online form,citizen,,failure to respond,המשרד להגנת הסביבה,בקשה לקבלת סיכום פגישה קמין עצים,termination of treatment,unjustified,16/05/2022,21
+ 45/22,24/11/2021,07/02/2022,online form,citizen,,failure to respond,משרד הבריאות,אימות מידע שהתקבל ממוסד other ,termination of treatment,justified,26/05/2022,108
+ 355/24,02/05/2024,10/10/2024,online form,citizen,,failure to respond,משרד הפנים,מידע על זכאות משפחות לתווי מזון לפי ישוב ,termination of treatment,justified,27/11/2024,48
+ 324/22,02/08/2022,03/08/2022,online form,citizen,,lack of reasoning,רשות האוכלוסין וההגירה,תעודות מעבר לילדי אומנה חסרי מעמד ,termination of treatment,unjustified,18/08/2022,15
+ 242/23,26/05/2022,22/06/2023,online form,non-profit organization,טרנסג'נדרים למען צדק חברתי,failure to respond,משרד הבריאות,זמני המתנה לניתוח להתאמה מגדרית,termination of treatment,justified,20/12/2023,181
+ 152/22,23/11/2021,06/04/2022,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,קבלת חומרים נלווים בנוגע לפרסום,termination of treatment,justified,01/08/2022,117
+ 279/22,27/02/2022,27/06/2022,online form,other,,failure to respond,משרד התיירות,מיזם אמפיסטאר מכתש רמון,termination of treatment,justified,20/07/2022,23
+ 229/23,02/01/2023,15/06/2023,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,מדיניות התנדבות ,termination of treatment,justified,04/09/2023,81
+ 273/23,24/09/2022,14/07/2023,online form,non-profit organization,אזרחים למען אוויר נקי,failure to respond,המשרד להגנת הסביבה,פעילות מוקד הסביבה,termination of treatment,justified,25/07/2023,11
+ 285/22,15/05/2022,30/06/2022,online form,citizen,,failure to respond,משרד החינוך,בירור לגבי העברת מענק מיוחד,termination of treatment,justified,05/07/2022,5
+ 422/22,22/05/2022,04/11/2022,online form,citizen,,failure to respond,משרד הבריאות,מחלת פוליו בארץ,termination of treatment,justified,04/05/2023,181
+ 385/22,17/07/2022,18/09/2022,online form,citizen,,failure to respond,משרד הבריאות,מידע חייב בפרסום לעניין אישי,termination of treatment,justified,03/05/2023,227
+ 138/23,21/06/2021,03/04/2023,online form,citizen,,failure to respond,משרד הבריאות,פעילות הדסק החרדי בקורונה,termination of treatment,justified,10/08/2023,129
+ 408/22,05/09/2022,18/10/2022,online form,other,,failure to respond,רשות החברות הממשלתיות, פרטים על הוועדה המייעצת בנושא מינוי דירקטורים,termination of treatment,unjustified,23/04/2023,187
+ 289/22,15/02/2022,06/07/2022,online form,other,,failure to respond,משרד הבריאות,מידע לגבי יבוא טובין,termination of treatment,justified,11/09/2022,67
+ 244/24,02/05/2024,11/07/2024,online form,citizen,,failure to respond,משרד הפנים,נתונים לגבי תווי המזון - סבב שני ,termination of treatment,unjustified,15/07/2024,4
+ 337/24,16/07/2024,26/09/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,"מידע בנוגע להרחבה בכפר פינס, תוכניות והסכם פשרה",termination of treatment,justified,14/10/2024,18
+ 137/23,15/01/2023,03/04/2023,online form,non-profit organization,החברה להגנת הטבע,failure to respond,משרד החקלאות ופיתוח הכפר,אגף הדיג,termination of treatment,justified,10/07/2023,99
+ 118/22,09/02/2022,23/03/2022,online form,citizen,,failure to respond,משרד הבריאות,החלטות בדבר בנק הדם,termination of treatment,justified,26/05/2022,64
+ 426/22,05/09/2022,10/11/2022,online form,other,,failure to respond,רשות החברות הממשלתיות,failure to respond גם otherי ארכה,termination of treatment,justified,23/04/2023,164
+ 375/22,04/07/2022,05/09/2022,online form,citizen,,failure to respond,"צהל""",מידע על התנהלות בשער שני במודל הקבע,termination of treatment,justified,04/05/2023,241
+ 278/23,10/02/2022,19/07/2023,online form,citizen,,failure to respond,משרד התיירות,בקשת מידע,termination of treatment,unjustified,29/02/2024,225
+ 40/23,23/09/2022,07/02/2023,online form,citizen,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",מספר הפלסטינים בגדה המערבית וברצועת עזה,termination of treatment,justified,19/02/2023,12
+ 386/24,13/06/2024,08/11/2024,online form,non-profit organization,נדן - סיוע משפטי לחיילים בשירות חובה,failure to respond,משרד המשפטים,מתווכים,termination of treatment,justified,18/11/2024,10
+ 374/22,31/08/2022,04/09/2022,online form,citizen,,failure to respond,משרד הביטחון,מידע על אגף שיקום נכים במשהבט,termination of treatment,unjustified,08/09/2022,4
+ 140/23,18/12/2022,03/04/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""","פגישות נציגי צהל עם נציגי משרד האוצר בנושא תקנות """,termination of treatment,justified,10/07/2023,98
+ 248/22,07/02/2022,08/06/2022,online form,citizen,,failure to respond,משרד הבריאות,הוספת סטודנטים לרפואה,termination of treatment,justified,01/08/2022,55
+ 441/23,01/03/2023,27/10/2023,online form,citizen,,failure to respond,משרד האוצר,failure to respond סמוכין 361890 מתאריך 01.03.23 ,termination of treatment,unjustified,14/12/2023,48
+ 399/22,28/08/2022,02/10/2022,online form,citizen,,failure to respond,משרד החינוך,נהלי טראנסג'נדרים ,termination of treatment,justified,20/04/2023,200
+ 256/24,09/06/2024,15/07/2024,online form,citizen,,lack of reasoning,משטרת ישראל,הסדר ניגוד עניינים,termination of treatment,unjustified,08/08/2024,24
+ 353/22,01/06/2022,22/08/2022,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",קביעת תאריך גיוס,termination of treatment,justified,21/09/2022,30
+ 119/24,09/11/2023,15/04/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond סמוכין 395069 תאריך 09.11.23 ,termination of treatment,unjustified,15/04/2024,0
+ 69/22,16/01/2022,20/02/2022,online form,citizen,,failure to respond,משרד הבריאות,failure to respond בבקשה לקבלת מידע על פי חוק,termination of treatment,justified,26/05/2022,95
+ 467/23,11/08/2023,07/11/2023,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,failure to respond לבקשה 11.08.23 סמוכין  384552 ,termination of treatment,unjustified,14/12/2023,37
+ 297/22,27/05/2022,18/07/2022,online form,citizen,,failure to respond,משרד התקשורת,"קבלת עותק רישיון רטן""",termination of treatment,justified,01/08/2022,14
+ 376/24,18/09/2024,03/11/2024,online form,citizen,,failure to respond,משרד הפנים,בקשת מידע - עבודת מטה,undergoing treatment,,,25
+ 220/24,19/02/2024,24/06/2024,online form,non-profit organization,העמותה הקהילתית גבעת מרדכי,failure to respond,משרד הבריאות,פירוט התקשרויות מאושרות למחקר,termination of treatment,justified,12/08/2024,49
+ 204/22,19/01/2022,10/05/2022,online form,citizen,,failure to respond,משרד האוצר,"נתוני משפטנים בצהל""",termination of treatment,justified,08/06/2022,29
+ 478/22,06/10/2022,12/12/2022,online form,other,,failure to respond,משרד הבריאות,בקשה לקבלת מידע בעניין רשימת המדינות כאמור בבקשתנו,termination of treatment,justified,07/02/2023,57
+ 204/23,23/03/2023,25/05/2023,online form,citizen,,failure to respond,משרד החינוך,בירור אפלייה ותנאי רפורמת אופק חדש,termination of treatment,justified,24/07/2023,61
+ 71/23,24/09/2022,28/02/2023,online form,non-profit organization,אזרחים למען אוויר נקי,failure to respond,הרשות הארצית לכבאות והצלה,שריפות פסולת,termination of treatment,justified,14/12/2023,290
+ 323/24,08/05/2024,15/09/2024,online form,citizen,,failure to respond,משרד הבריאות,"סגירת שלוחת ביהח שערי צדק ברח' הנביאים""",termination of treatment,justified,28/10/2024,43
+ 221/24,29/01/2023,25/06/2024,online form,citizen,,failure to respond,משרד הבריאות,מסמכים לגבי החיסון מותאם אומיקרון,termination of treatment,justified,12/08/2024,48
+ 472/23,13/11/2023,13/11/2023,online form,citizen,,failure to respond,המכון הרפואי לבטיחות בדרכים,דוח תאונת עבודה,termination of treatment,justified,21/12/2023,38
+ 476/22,17/05/2022,11/12/2022,online form,other,,failure to respond,משרד החינוך,אמיר לנציאנו,termination of treatment,justified,16/02/2023,67
+ 164/22,19/01/2022,14/04/2022,online form,company,,failure to respond,משרד הבינוי והשיכון,שימועים בגין עבירות בטיחות – רשם הקבלנים,termination of treatment,unjustified,28/04/2022,14
+ 247/23,06/09/2022,26/06/2023,online form,citizen,,failure to respond,הרבנות הראשית לישראל,העלמת מידע ,termination of treatment,unjustified,31/07/2023,36
+8/24,05/09/2023,07/01/2024,online form,non-profit organization,מרכז טאוב לחקר המדיניות החברתית בישראל,lack of reasoning,משרד החינוך,מבחן מחוננים,termination of treatment,justified,18/01/2024,11
+ 390/24,08/08/2024,10/11/2024,online form,citizen,,failure to respond,משרד הבריאות,לימודי תרפיה באומנויות,undergoing treatment,,,18
+ 182/23,29/01/2023,11/05/2023,online form,citizen,,failure to respond,משרד האוצר,קבלת העתק מסמך תשובת שר האוצר,termination of treatment,unjustified,13/07/2023,63
+ 18/24,12/01/2024,14/01/2024,online form,citizen,,failure to respond,מנהל citizenי אזור יהודה ושומרון,פסקי דין מאושרים לצו 348,termination of treatment,justified,07/03/2024,53
+ 255/24,25/03/2024,15/07/2024,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,משרד המשפטים,צו הורות פסיקתי,termination of treatment,justified,28/08/2024,44
+ 272/23,24/09/2022,14/07/2023,online form,non-profit organization,אזרחים למען אוויר נקי,failure to respond,המשרד להגנת הסביבה,פעילות המשטרה הירוקה,termination of treatment,justified,31/08/2023,48
+ 272/24,03/04/2024,21/07/2024,online form,citizen,,failure to respond,משרד האוצר,כספים שהוקפאו מהרשות הפלסטינית,termination of treatment,justified,14/08/2024,25
+ 404/23,20/04/2023,11/09/2023,online form,citizen,,failure to respond,משרד הבריאות,אצוות חיסון פייזר,termination of treatment,justified,10/01/2024,121
+ 215/22,04/12/2021,18/05/2022,online form,citizen,,failure to respond,מנהל citizenי אזור יהודה ושומרון,פעולות אכיפה בתחום איכות הסביבה,termination of treatment,justified,01/06/2022,14
+ 161/24,27/09/2023,12/05/2024,online form,citizen,,failure to respond,משרד הבריאות,הוצאות משרד הבריאות על משפיעני רשת,termination of treatment,justified,01/07/2024,51
+ 70/22,14/12/2021,20/02/2022,online form,citizen,,failure to respond,משרד ראש הממשלה,עלות חכירת מטוס מסחרי לטיסות,termination of treatment,justified,26/05/2022,95
+ 166/24,12/02/2023,20/05/2024,online form,citizen,,failure to respond,משרד הבריאות,אופן חישוב השתתפות בדמי אשפוז,termination of treatment,justified,01/07/2024,42
+ 51/22,09/09/2021,10/02/2022,online form,citizen,,failure to respond,המשרד להגנת הסביבה,רותם אמפרט,termination of treatment,justified,26/05/2022,105
+ 411/22,18/09/2022,19/10/2022,online form,non-profit organization,תחרות - התנועה לחירות בתעסוקה,failure to respond,משרד החינוך,פרטים על מורי החטיבות העליונות,termination of treatment,justified,03/05/2023,196
+ 259/24,13/03/2024,15/07/2024,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,"צהל""",כריתת אשך ללא הסכמה,termination of treatment,justified,21/08/2024,37
+ 393/22,16/07/2022,20/09/2022,online form,citizen,,failure to respond,משרד הכלכלה,מתן חסויות על ידי משרד הכלכלה ועובדי ציברר ממשרד ה,termination of treatment,unjustified,04/05/2023,226
+ 72/22,22/02/2022,22/02/2022,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד הבריאות,חלופות ניסויים משרד הבריאות,termination of treatment,justified,12/04/2022,49
+ 31/23,02/12/2022,27/01/2023,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,הנילונה לא מסרה את המסמכים המבוקשים,termination of treatment,justified,10/07/2023,164
+ 439/22,27/06/2022,20/11/2022,online form,citizen,,lack of reasoning,האפוטרופוס הכללי והכונס הרשמי,חופש מידע,termination of treatment,unjustified,18/05/2023,179
+ 72/23,26/09/2022,28/02/2023,online form,non-profit organization,אזרחים למען אוויר נקי,lack of reasoning,משרד החקלאות ופיתוח הכפר,שריפות גזם ופסולת חקלאית,termination of treatment,justified,07/09/2023,192
+ 109/22,16/02/2022,20/03/2022,online form,citizen,,lack of reasoning,משטרת ישראל,"דוחות תנועה בצומת """,termination of treatment,unjustified,03/05/2022,44
+ 91/22,06/02/2022,10/03/2022,online form,citizen,,failure to respond,משרד החינוך,מעקב תהליכים - שאלון,termination of treatment,justified,29/03/2022,19
+ 27/23,12/12/2022,22/01/2023,online form,citizen,,failure to respond,משרד הפנים,בקשה למידע ציבורי- הקצאות מקרקעין,termination of treatment,justified partially,14/12/2023,326
+ 112/22,03/01/2022,22/03/2022,online form,citizen,,failure to respond,משרד התיירות,הקצאת מקרקעין,termination of treatment,justified,27/04/2022,36
+ 367/22,10/05/2022,29/08/2022,online form,citizen,,failure to respond,"צהל""","נתונים על אירועים לבבים בצהל בשנים 18-21""",termination of treatment,justified,04/05/2023,248
+ 629/21,30/04/2021,23/12/2021,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,מידע בנושא מעבר מבחני רשיונות,termination of treatment,justified,07/02/2022,46
+ 614/21,21/10/2021,17/12/2021,online form,citizen,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",מידע בנוגע לפעילות יחידת הפיקוח,termination of treatment,unjustified,09/03/2022,83
+ 234/24,07/06/2023,05/07/2024,online form,citizen,,failure to respond,משרד הבריאות,"נתונים אודות תחומים שונים (ריטלין, פסיכיאטריה, נזעי חשמל, פירכוס, אובדנות, אשפוז בכפיה ועוד)",termination of treatment,unjustified,24/09/2024,81
+ 246/23,07/05/2023,25/06/2023,online form,other,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",אופן הטלת מניעה,termination of treatment,justified,27/09/2023,94
+ 274/22,15/06/2022,21/06/2022,online form,citizen,,lack of reasoning,משרד המשפטים,מספר עובדים עם מוגבלות משמעותית ,termination of treatment,unjustified,28/06/2022,8
+ 30/22,14/12/2021,26/01/2022,online form,citizen,,failure to respond,משרד העבודה,קבלת מידע על מכללות לתחבורה בצפון,termination of treatment,justified,13/02/2022,18
+ 217/24,13/05/2024,23/06/2024,online form,citizen,,failure to respond,הרשות להגנת הצרכן ולסחר הוגן,אי קבלת מענה ענייני,termination of treatment,unjustified,10/07/2024,17
+ 139/24,13/08/2023,02/05/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע דחוף,termination of treatment,unjustified,25/07/2024,84
+ 637/21,17/11/2021,27/12/2021,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תגמולים לחברות על תיקופים של הנוסעים,termination of treatment,justified,27/02/2022,62
+ 60/22,08/01/2022,14/02/2022,online form,citizen,,failure to respond,משרד החינוך,פירוט חלוקת תמיכות,termination of treatment,justified,26/05/2022,101
+ 75/23,25/01/2023,01/03/2023,online form,citizen,,failure to respond,משרד החינוך,פרוטוקול וועדה פריטטית,termination of treatment,justified,03/05/2023,63
+ 346/22,11/02/2021,19/08/2022,online form,citizen,,failure to respond,משטרת ישראל,"בקשה לקבלת תיק חקירה פלא 19/373477""",termination of treatment,unjustified,08/09/2022,20
+ 368/23,30/03/2022,24/08/2023,online form,citizen,,failure to respond,מינהל התכנון,בקשות ותכניות,termination of treatment,unjustified,04/09/2023,11
+ 62/24,18/12/2023,20/02/2024,online form,citizen,,failure to respond,משרד התקשורת,מספר מקוצר כוכבית וארבע ספרות,termination of treatment,justified,04/03/2024,13
+ 276/23,30/03/2023,18/07/2023,online form,citizen,,failure to respond,"רשות שוק ההון, הביטוח והחיסכון",המסלקה הפנסיונית,termination of treatment,justified,21/09/2023,65
+ 268/23,03/07/2023,10/07/2023,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע על עסקאות ,termination of treatment,unjustified,10/07/2023,0
+ 126/23,28/02/2023,26/03/2023,online form,citizen,,failure to respond,משרד המשפטים,failure to respond,termination of treatment,unjustified,10/05/2023,45
+ 61/22,08/01/2022,14/02/2022,online form,citizen,,failure to respond,משרד הרווחה והשירותים החברתיים,פירוט חלוקת תמיכות,termination of treatment,justified,17/02/2022,3
+ 104/24,07/11/2023,03/04/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond !במועד! סמוכין 394794 תאריך 07.11.23 ,termination of treatment,unjustified,03/04/2024,0
+ 149/24,12/02/2024,09/05/2024,online form,other,,failure to respond,משרד המשפטים,כתבי אישום,termination of treatment,justified,22/05/2024,13
+ 457/22,12/07/2022,28/11/2022,online form,other,,failure to respond,משרד הבריאות,תיקון העלון לתרופת פרופסיה,termination of treatment,justified,10/07/2023,224
+ 376/22,02/08/2022,06/09/2022,online form,citizen,,failure to respond,משרד החינוך,וועדת החריגים תמריצים,termination of treatment,justified,14/09/2022,8
+ 76/23,29/01/2023,02/03/2023,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,failure to respond לבקשת מידע  29.01.23 סמוכין 357354 ,termination of treatment,unjustified,14/12/2023,287
+ 248/24,20/02/2024,14/07/2024,online form,other,,failure to respond,משרד האוצר,נגישות לאנשים עם מוגבלות,termination of treatment,justified,28/08/2024,45
+ 105/22,23/01/2022,14/03/2022,online form,citizen,,failure to respond,משרד העבודה,מחקר תחלואת סרטן עודפת,termination of treatment,justified,26/05/2022,73
+ 268/24,16/05/2024,17/07/2024,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,פרוטוקולים ותכוניות בנייה,termination of treatment,unjustified,08/10/2024,84
+ 151/22,07/02/2022,05/04/2022,online form,citizen,,failure to respond,משרד הבריאות,הוספת סטודנטים לרפואה,termination of treatment,justified partially,27/04/2022,22
+ 296/22,03/03/2022,17/07/2022,online form,citizen,,failure to respond,הנהלת בתי המשפט,הכשרות שופטים בנושא אלימות מינית,termination of treatment,justified,14/09/2022,59
+ 591/21,20/10/2021,24/11/2021,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,קבלת מידע נוקדות חובה,termination of treatment,unjustified,12/12/2021,18
+ 501/22,12/09/2022,25/12/2022,online form,non-profit organization,החברה להגנת הטבע,failure to respond,"צהל""",תאורה באסדת הגז לוויתן,termination of treatment,justified,28/03/2023,93
+ 457/23,04/07/2023,29/10/2023,online form,citizen,,failure to respond,משרד הבריאות,failure to respond לבקשה סמוכין 378524 04.07.23 ,termination of treatment,unjustified,14/12/2023,46
+ 77/24,15/02/2024,06/03/2024,online form,citizen,,failure to respond,משרד המשפטים,שמאי מכריע,termination of treatment,unjustified,13/03/2024,7
+ 50/24,22/01/2024,07/02/2024,online form,citizen,,failure to respond,הרשות לאכיפה במקרקעין - משרד האוצר,מדיע בנוגע להפעלת סמכות מקבילה,termination of treatment,unjustified,27/03/2024,49
+ 308/22,27/06/2022,25/07/2022,online form,citizen,,failure to respond,משרד הבריאות,פניה מתאריך ה- 27.06.2022 - failure to respond,termination of treatment,unjustified,28/07/2022,3
+ 243/24,12/03/2024,09/07/2024,online form,citizen,,failure to respond,משרד הבינוי והשיכון,תמהיל דירות פרויקט 1572 בתוכנית מחיר למשתכן ,termination of treatment,justified,30/07/2024,21
+ 432/22,17/07/2022,15/11/2022,online form,citizen,,failure to respond,משרד הבריאות,אי מתן מתן לקבלת תקנות ,termination of treatment,justified,20/04/2023,156
+ 393/24,04/10/2024,11/11/2024,online form,citizen,,lack of reasoning,המשרד להגנת הסביבה,חוק הפחמן,undergoing treatment,,,17
+ 115/22,25/01/2022,22/03/2022,online form,citizen,,failure to respond,משרד הבריאות,פנייה לנציב קבילות הרופאים,termination of treatment,unjustified,09/05/2022,48
+ 132/22,23/02/2022,27/03/2022,online form,citizen,,failure to respond,"צהל""",נתונים על דין משמעתי,termination of treatment,justified,30/05/2022,64
+9/24,05/09/2023,07/01/2024,online form,non-profit organization,מרכז טאוב לחקר המדיניות החברתית בישראל,failure to respond,משרד הבריאות,אשפוז עקב חשיפה לחום,termination of treatment,justified,13/03/2024,66
+ 16/22,07/11/2021,17/01/2022,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד הביטחון,ניסויים בבעלי חיים במשרד הביטחון,termination of treatment,justified,21/02/2022,35
+ 237/22,13/12/2021,02/06/2022,online form,other,,failure to respond,משרד הבריאות,"החלטות וועדות, מידע אודות המבקש ומידע סטטיסטי",termination of treatment,justified,01/08/2022,60
+ 252/23,07/05/2023,28/06/2023,online form,citizen,,failure to respond,משרד המשפטים,failure to respond לבקשה 07.05.23 סמוכין 370052 ,termination of treatment,unjustified,09/11/2023,134
+ 71/22,26/12/2021,22/02/2022,online form,company,,failure to respond,משרד העבודה,אמל שבלי,termination of treatment,justified,26/05/2022,93
+ 245/23,04/04/2023,25/06/2023,online form,other,,failure to respond,"צהל""",חלוקת מכסות בענף התעשייה והשירותים,termination of treatment,justified,10/07/2023,15
+ 297/23,20/04/2023,27/07/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""",שינוי סיווג מערכי נגדים במהלך חופשת הפסח 2023,termination of treatment,justified,21/09/2023,56
+ 24/23,06/11/2022,19/01/2023,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,failure to respond על נתונים שנתבקשו בבקשת חופש מידע ,termination of treatment,justified,19/02/2023,31
+ 440/23,18/09/2022,25/10/2023,online form,citizen,,failure to respond,משרד הבריאות,בקשה למידע במסגרת חוק חופש המידע,termination of treatment,justified,18/01/2024,86
+ 274/24,17/02/2024,24/07/2024,online form,citizen,,failure to respond,משרד הבריאות,תרומות למחקרים קליניים,termination of treatment,justified,04/09/2024,42
+ 136/24,10/08/2023,02/05/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע דחוף,termination of treatment,unjustified,25/07/2024,84
+ 408/24,10/09/2024,26/11/2024,online form,non-profit organization,תחרות - התנועה לחירות בתעסוקה,failure to respond,משרד החינוך,מידע על תקציבים ועל ארגוני המורים,undergoing treatment,,,2
+ 141/24,19/04/2022,02/05/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע דחוף,termination of treatment,unjustified,25/07/2024,84
+ 418/22,27/10/2022,28/10/2022,online form,citizen,,failure to respond,משרד החינוך,תלונה נגד רכזת האגף במשרד החינוך אילנית שושני,termination of treatment,justified,30/03/2023,154
+ 385/23,01/06/2023,27/08/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""","חוזה מול מועדון הלקוחות יותר""""",termination of treatment,justified,19/03/2024,205
+ 469/23,24/05/2023,12/11/2023,online form,citizen,,failure to respond,משרד הבריאות,"בקשה לקבלת מידע בעניין דר אשר שלמון""",termination of treatment,justified,22/01/2024,71
+ 113/22,15/02/2022,22/03/2022,online form,citizen,,failure to respond,משרד ראש הממשלה,"ועדת האיתור לתפקיד מנהל לפמ""",termination of treatment,justified,27/04/2022,36
+ 279/23,08/03/2022,19/07/2023,online form,citizen,,failure to respond,משרד התיירות,כרם שיזף,termination of treatment,justified,07/03/2024,232
+ 386/22,03/08/2022,20/09/2022,online form,company,,failure to respond,משרד העבודה,צווים שהוטלו על ידי המפחק סימיון,termination of treatment,justified,03/05/2023,225
+ 281/22,26/02/2022,28/06/2022,online form,citizen,,failure to respond,משרד הבריאות,הקלטת שיחה אשר ביצעתי עם המשרד,termination of treatment,justified,11/08/2022,44
+ 22/24,22/11/2023,23/01/2024,online form,citizen,,failure to respond,משרד הבינוי והשיכון,קביעת שכר דירה,termination of treatment,unjustified,05/02/2024,14
+ 81/24,05/11/2023,08/03/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond סמוכין 394563 מתאריך 05.11.23 ,termination of treatment,unjustified,13/03/2024,5
+ 107/24,28/02/2024,04/04/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,דוח תיקופים קו 681,termination of treatment,justified,20/06/2024,77
+ 416/23,30/07/2023,12/09/2023,online form,citizen,,failure to respond,משרד התיירות,מסמכי יכולת פיננסית,termination of treatment,justified,29/02/2024,170
+ 609/21,08/04/2021,12/12/2021,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,מנהל citizenי אזור יהודה ושומרון,היתרי כניסה לישראל לצורכי עבודה ומניעות כניסת תושב,termination of treatment,justified,26/05/2022,165
+ 182/24,11/03/2024,22/05/2024,online form,citizen,,failure to respond,משרד החינוך,שימוש בפיקדון צבאי,termination of treatment,justified,29/05/2024,8
+ 116/22,29/12/2021,22/03/2022,online form,non-profit organization,פורום דו קיום בנגב לשוויון אזרחי,failure to respond,המשרד לביטחון לאומי,"מידע על הריסות בתים, פינויים וחריש בנגב לשנת 2021",termination of treatment,justified,29/03/2022,7
+ 371/22,02/08/2022,04/09/2022,online form,citizen,,failure to respond,משרד החינוך,עיון בתיק אישי - בית הספר שלנו תל מונד,termination of treatment,justified,18/12/2022,105
+ 423/23,29/01/2023,26/09/2023,online form,citizen,,failure to respond,משרד הביטחון,מענים חלקיים בלבד לשתי בקשות מידע,termination of treatment,justified partially,13/12/2023,78
+ 124/24,07/08/2023,17/04/2024,online form,non-profit organization,האגודה לזכויות האזרח בישראל,failure to respond,משרד המשפטים,"פילוח תלונות מחש""",termination of treatment,justified,02/05/2024,15
+ 125/24,19/12/2023,17/04/2024,online form,non-profit organization,הפורום לתזונה בת קיימא,failure to respond,משרד הבריאות,השלכות מס הסוכר,termination of treatment,unjustified,18/09/2024,154
+ 60/24,25/01/2024,16/02/2024,online form,citizen,,failure to respond,משרד החינוך,סמכות ועדה פריטטית בנושא התמריצים למורים ,termination of treatment,unjustified,02/05/2024,76
+ 198/22,06/01/2022,09/05/2022,online form,citizen,,failure to respond,"צהל""","חכירת רכבים מצהל""",termination of treatment,justified,02/08/2022,85
+2/23,05/09/2022,01/01/2023,online form,citizen,,failure to respond,"צהל""",מתן מענה לא ענייני וחלקי ביותר,termination of treatment,unjustified,04/01/2023,3
+ 47/23,25/11/2022,08/02/2023,online form,citizen,,failure to respond,רשות מקרקעי ישראל,קבלת מידע,termination of treatment,justified,31/05/2023,112
+ 444/22,08/05/2022,23/11/2022,online form,non-profit organization,הפורום לישראל ירוקה,failure to respond,המשרד להגנת הסביבה,מפעלי תעשייה כבידה בישראל,termination of treatment,justified,24/05/2023,182
+ 314/22,20/06/2022,28/07/2022,online form,citizen,,failure to respond,רשות המסים בישראל,החזר כספים בגין הפקדות כספי מעסיק מקופות שונות,termination of treatment,unjustified,07/08/2022,10
+ 325/24,14/08/2024,16/09/2024,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,תכנית כיבוי אש פרויקט דניה סיבוס,termination of treatment,justified,10/10/2024,24
+ 463/23,31/05/2023,05/11/2023,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,failure to respond סמוכין 373500 תאריך 31.05.23 ,termination of treatment,unjustified,14/12/2023,39
+ 367/23,16/07/2023,24/08/2023,online form,citizen,,failure to respond,מינהל התכנון,בקשות ותכניות,termination of treatment,unjustified,04/09/2023,11
+ 68/23,18/12/2022,26/02/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""",פרסום כתבות נגד משרתי ופורשי צבא הקבע,termination of treatment,justified,08/06/2023,102
+ 413/22,16/06/2022,23/10/2022,online form,non-profit organization,ניצנים,failure to respond,"צהל""",failure to respond לבקשת מידע ,termination of treatment,justified,03/05/2023,192
+ 25/23,11/12/2022,19/01/2023,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,failure to respond לבקשת חופש מידע מיום 11.12.22 ,termination of treatment,justified,15/02/2023,27
+ 219/22,16/02/2022,19/05/2022,online form,citizen,,failure to respond,רשות המים והביוב,מידע על כמויות מים והיכן נצרכו,termination of treatment,unjustified,16/06/2022,29
+ 117/24,06/12/2023,11/04/2024,online form,citizen,,failure to respond,משרד הבריאות,מסמכים  שונים,termination of treatment,justified,05/06/2024,55
+ 347/22,01/11/2021,21/08/2022,online form,citizen,,failure to respond,משרד התקשורת,בקשה הנוגעת לחווד אודות פטריק דרהי,termination of treatment,justified,14/09/2022,24
+ 223/22,27/02/2022,23/05/2022,online form,citizen,,failure to respond,משרד התיירות,"אי כיבוד הבקשה, גרירת רגליים ופעולה ללא סמכות",termination of treatment,unjustified,25/05/2022,3
+ 245/22,25/02/2022,06/06/2022,online form,citizen,,failure to respond,"צהל""","מכות חום, חשיפה לקרינה וכמות בשר",termination of treatment,justified,11/08/2022,66
+ 239/22,28/03/2022,02/06/2022,online form,non-profit organization,לביא,failure to respond,"צהל""",צווי הרחקה מנהליים,termination of treatment,justified,01/08/2022,60
+ 485/22,08/11/2022,20/12/2022,online form,citizen,,failure to respond,רשות האוכלוסין וההגירה,אי התייחסות לבקשה.,termination of treatment,unjustified,28/12/2022,8
+ 54/22,11/01/2022,12/02/2022,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,חופש המידע בתי דין רבניים מקומות מושב דיינים,termination of treatment,justified,28/04/2022,75
+ 175/22,13/03/2022,25/04/2022,online form,citizen,,failure to respond,משרד החינוך,מסמך הנחיות של יועץ הבטיחות מטעם משרד החינוך,termination of treatment,justified,28/04/2022,3
+ 222/24,14/03/2024,25/06/2024,online form,non-profit organization,המרכז להעצמת האזרח,failure to respond,משרד הביטחון,מוניטור 1226 ו-3741,termination of treatment,justified,30/07/2024,35
+ 318/24,09/05/2024,09/09/2024,online form,non-profit organization,העמותה הקהילתית גבעת מרדכי,failure to respond,משרד הבריאות,אכיפה וקנסות - אי דיווח תרומות,termination of treatment,justified,28/10/2024,49
+ 481/22,04/07/2022,15/12/2022,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,משרד המשפטים,"פילוח נתוני מחש""",termination of treatment,justified,22/12/2022,7
+ 52/22,06/02/2021,10/02/2022,online form,citizen,,failure to respond,משרד הפנים,"כתבי מינוי נוספים של עוד בנימין זלמנוביץ""",termination of treatment,unjustified,29/03/2022,47
+ 206/23,14/04/2023,28/05/2023,online form,citizen,,failure to respond,משרד האוצר,failure to respond בקשת 14.04.23 סמוכין 366866 ,termination of treatment,unjustified,12/07/2023,45
+ 107/23,05/01/2023,10/03/2023,online form,non-profit organization,מגן ביטחון,failure to respond,"צהל""","נתונים אודות בקשות חופש מידע המוגשות לצהל""",termination of treatment,justified,29/03/2023,19
+ 90/22,08/01/2022,07/03/2022,online form,citizen,,failure to respond,משרד הבריאות,פירוט חלוקת תמיכות,termination of treatment,justified partially,12/04/2022,36
+1/24,10/09/2023,01/01/2024,online form,company,,failure to respond,משרד העבודה,דוחות הדרכות בטיחות,termination of treatment,justified,04/01/2024,3
+ 291/24,15/05/2024,14/08/2024,online form,non-profit organization,תורת המדינה,failure to respond,משרד המשפטים,"חופש מידע מפרקליטות מחוז תא ומרכז """,termination of treatment,justified,22/08/2024,9
+ 324/24,26/07/2024,15/09/2024,online form,citizen,,lack of reasoning,משרד הבינוי והשיכון,ביקשתי נוהל וקיבלתי תשובה מתחמקת אך לא הנוהל,termination of treatment,unjustified,16/09/2024,1
+ 461/22,01/08/2022,30/11/2022,online form,non-profit organization,עמותת עמרם,failure to respond,משרד הבריאות,מינויה של פרופ' שורץ לבחון חומר בנושא פרשת ילדי תימן,termination of treatment,justified,20/04/2023,141
+ 202/24,16/03/2024,11/06/2024,online form,citizen,,failure to respond,משרד הבריאות,"נוהל קריטריונים הקמת ועדת בדיקה רשמית, רשלנות רפואית",termination of treatment,justified,30/07/2024,49
+ 26/24,25/01/2024,25/01/2024,online form,non-profit organization,"מרכז רקמן, אוניברסיטת בר אילן",failure to respond,משרד המשפטים,מידע לשנתון סטטיסטי,termination of treatment,unjustified,08/02/2024,14
+ 352/22,31/05/2022,22/08/2022,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",מדיניות גיוס בני ישיבות ציונית,termination of treatment,justified,26/01/2023,157
+ 262/24,10/05/2023,15/07/2024,online form,other,,failure to respond,משרד הבריאות,אנטיביוטיקה מסוג CEFTRIAXONE,termination of treatment,justified,21/08/2024,37
+ 421/23,24/05/2023,26/09/2023,online form,non-profit organization,התנועה לחופש המידע,failure to respond,משרד המשפטים,"תלונות למחש""",termination of treatment,justified partially,06/12/2023,71
+ 136/23,15/12/2022,02/04/2023,online form,non-profit organization,החברה להגנת הטבע,failure to respond,משרד החקלאות ופיתוח הכפר,רישיונות או היתרים לדיג חריג,termination of treatment,justified,10/07/2023,99
+ 362/24,30/06/2024,15/10/2024,online form,other,,failure to respond,הרשות הארצית לכבאות והצלה,דוח חקירת אירוע שריפה,termination of treatment,justified,28/10/2024,13
+ 388/23,18/05/2023,29/08/2023,online form,citizen,,failure to respond,משרד החינוך,תקנות זכויות התלמיד,termination of treatment,justified,21/09/2023,23
+ 119/23,07/02/2023,16/03/2023,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,נתונים לגבי מחסור בעובדי הוראה,termination of treatment,justified,07/06/2023,83
+ 305/23,06/03/2023,01/08/2023,online form,citizen,,failure to respond,משרד הבריאות,הועדה לשינוי מין,termination of treatment,justified,01/01/2024,153
+ 438/22,03/10/2022,20/11/2022,online form,citizen,,failure to respond,משרד החינוך,בקשת חופש מידע,termination of treatment,justified,24/05/2023,185
+2/24,24/05/2023,01/01/2024,online form,other,,failure to respond,משרד הבריאות,מכונות אקמו,termination of treatment,justified,29/02/2024,59
+ 228/23,28/03/2023,15/06/2023,online form,citizen,,failure to respond,משרד התקשורת,רשימת בתי מלון,termination of treatment,justified,27/06/2023,12
+ 162/24,24/11/2023,13/05/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond ! במועד ! סמוכין 396840 תאריך 24.11.23,termination of treatment,unjustified,13/05/2024,0
+ 353/24,17/06/2024,09/10/2024,online form,citizen,,failure to respond,משרד ראש הממשלה,"יועצים חיצוניים ועובדי המדינה לרוהמ שהושכרו ע""י המשרד בחודשים אוקטובר 2023 עד מאי 2024""",termination of treatment,justified,07/11/2024,29
+ 185/23,06/02/2023,11/05/2023,online form,citizen,,lack of reasoning,רשות האכיפה והגבייה,נתונים מהוצאה לפועל והמרכז לגביית קנסות,termination of treatment,justified,08/11/2023,181
+ 137/24,10/07/2023,02/05/2024,online form,citizen,,failure to respond,רשות מקרקעי ישראל,מידע דחוף,termination of treatment,unjustified,25/07/2024,84
+ 174/22,08/02/2022,25/04/2022,online form,citizen,,failure to respond,משרד החינוך,"דוח ביקורת כספית בישיבה תיכונית גבעת שמואל""",termination of treatment,unjustified,13/06/2022,49
+ 310/22,17/05/2022,26/07/2022,online form,citizen,,failure to respond,משרד הבריאות,בקשת חוק חופש המידע,termination of treatment,unjustified,28/07/2022,2
+ 42/22,24/11/2021,03/02/2022,online form,citizen,,failure to respond,"צהל""",נתונים על משרתות מילואים,termination of treatment,justified,26/05/2022,112
+ 268/22,10/03/2022,16/06/2022,online form,citizen,,failure to respond,משרד הבריאות,"אישור ו/או קבלת רישיון מוסד מכורים לחיים""""",termination of treatment,justified,12/07/2022,26
+ 46/24,03/12/2023,02/02/2024,online form,citizen,,failure to respond,משרד הבריאות,failure to respond ! במועד ! סמוכין 397777 03.12.23 ,termination of treatment,unjustified,29/02/2024,27
+ 184/23,04/02/2023,11/05/2023,online form,citizen,,lack of reasoning,משרד המשפטים,פרוטוקולים לשכת היועמש,termination of treatment,unjustified,11/05/2023,0
+9/23,23/08/2022,08/01/2023,online form,citizen,,failure to respond,משרד הבריאות,אי מענה לקבלת תקנות ,termination of treatment,justified,05/03/2023,56
+ 392/23,27/06/2023,01/09/2023,online form,citizen,,lack of reasoning,מרכז רפואי שיבא,נורות פוטותרפיה,termination of treatment,justified,10/01/2024,131
+ 239/24,28/05/2024,08/07/2024,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,"בקשה לדוח כיבוי חוקר דליקות על שריפה בין 15-14 יולי 2023 בבניין ברחוב יוסף הגידם 13 חיפה""",termination of treatment,justified,06/08/2024,29
+6/24,03/12/2023,05/01/2024,online form,citizen,,failure to respond,משרד ראש הממשלה,failure to respond לבקשת מידע סמוכין 397772 03.12.23 ,termination of treatment,unjustified,29/01/2024,25
+ 39/22,05/09/2021,31/01/2022,online form,non-profit organization,כושרות,failure to respond,משרד הבריאות,מערך הפיקוח על המזון ,termination of treatment,justified,28/03/2022,56
+ 420/23,16/07/2023,26/09/2023,online form,non-profit organization,תנו לחיות לחיות,failure to respond,משרד החקלאות ופיתוח הכפר,ביקורות בחזיריות,termination of treatment,justified,06/11/2023,41
+ 429/22,13/04/2022,13/11/2022,online form,citizen,,failure to respond,משרד העבודה,שיתוף פעולה בין מנהל הבטיחות בזרוע ויחידת פלס,termination of treatment,justified,03/05/2023,171
+ 269/24,18/05/2024,17/07/2024,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,פרוטוקולים שונים,termination of treatment,unjustified,08/10/2024,84
+ 53/24,22/09/2023,11/02/2024,online form,citizen,,failure to respond,משרד הבריאות,"מספר בוגרים ישראלים מחול""",termination of treatment,justified,04/04/2024,53
+ 354/22,28/10/2021,22/08/2022,online form,citizen,,failure to respond,משטרת ישראל,השלמת נתונים - יוצאי אתיופיה,termination of treatment,unjustified,08/09/2022,17
+ 311/22,31/01/2022,27/07/2022,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תקצוב משרד התחבורה פרויקטים תחבורתיים וסובסידיות בגדה המערבית,termination of treatment,justified,18/08/2022,22
+ 636/21,19/08/2021,27/12/2021,online form,citizen,,failure to respond,משרד הבריאות,שאלות לגבי בידוד נגיף הקורונה,termination of treatment,justified,28/03/2022,91
+ 26/23,22/11/2022,22/01/2023,online form,citizen,,lack of reasoning,משרד הבינוי והשיכון,בקשה לקבלת אסמכתאות להעברת כספים,termination of treatment,justified,25/04/2023,94
+ 28/24,20/07/2023,27/01/2024,online form,citizen,,failure to respond,משרד החינוך,הפעלת סמכותו של מנהל המחוז,termination of treatment,justified,11/04/2024,75
+ 108/23,21/11/2022,12/03/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",הליכי גיוס לבעלי קושי נפשי,termination of treatment,justified,20/06/2023,100
+ 340/22,26/01/2022,15/08/2022,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,העתק ממסמכי מכרז,termination of treatment,justified,26/01/2023,164
+ 395/22,11/05/2022,22/09/2022,online form,citizen,,failure to respond,משרד הבריאות,קבלת מידע בנושא תאי לחץ גבוה ומתון,termination of treatment,justified,18/01/2023,119
+5/24,24/08/2023,04/01/2024,online form,non-profit organization,איחוד הישיבות בארי,lack of reasoning,רשות האוכלוסין וההגירה,העתק ממרשם האוכלוסין,termination of treatment,justified,25/01/2024,21
+ 63/24,14/11/2022,20/02/2024,online form,non-profit organization,מדעת - למען בריאות מושכלת,failure to respond,משרד הבריאות,כיסוי חיסוני בישראל ומדיניות הסברה,termination of treatment,justified,18/04/2024,58
+ 242/24,01/05/2024,09/07/2024,online form,citizen,,failure to respond,משרד התיירות,נהלי משרד התיירות,termination of treatment,unjustified,19/08/2024,41
+ 261/24,10/04/2024,15/07/2024,online form,other,,failure to respond,משרד הבריאות,משלוח מזון מבית עסק לבית הצרכן,termination of treatment,justified,21/08/2024,37
+ 303/24,14/04/2024,27/08/2024,online form,non-profit organization,העמותה הקהילתית גבעת מרדכי,failure to respond,משרד הבריאות,התפרצויות חצבת בעולם,termination of treatment,justified,06/10/2024,40
+ 129/23,28/02/2023,28/03/2023,online form,citizen,,failure to respond,משרד הבריאות,failure to respond לבקשתי לרשומות מהפסיכיאטר המחוזי מרכז,termination of treatment,justified,07/06/2023,71
+ 426/23,29/07/2023,03/10/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",החלטת ממשלה 682,termination of treatment,justified,15/04/2024,195
+ 288/22,24/04/2022,04/07/2022,online form,citizen,,lack of reasoning,משרד הבינוי והשיכון,הטלת קנסות על החברות המשכנות ותלונות הציבור,termination of treatment,unjustified,10/08/2022,37
+ 249/22,24/02/2022,08/06/2022,online form,non-profit organization,לביא,failure to respond,שירות בתי הסוהר,נתוני אסירים בטחוניים 2021,termination of treatment,justified,23/08/2022,76
+ 274/23,22/11/2022,14/07/2023,online form,non-profit organization,אזרחים למען אוויר נקי,failure to respond,המשרד להגנת הסביבה,תשלום למודיע על השלכת פסלת שלא כדין,termination of treatment,justified,01/08/2023,18
+ 304/24,15/07/2024,28/08/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,פרוטוקול תחבורה ציבורית ,termination of treatment,unjustified,02/09/2024,5
+ 269/22,24/04/2022,16/06/2022,online form,citizen,,lack of reasoning,משרד הרווחה והשירותים החברתיים,מידע אודות הוסטל נחלים ברכסים,termination of treatment,unjustified,09/04/2024,663
+ 227/23,09/04/2023,15/06/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",בני מהגרים בלימודים,termination of treatment,justified,08/01/2024,207
+ 197/22,06/01/2022,09/05/2022,online form,citizen,,failure to respond,"צהל""","תנאי הזכאות לקבלת גמול השתלמות (גמוש) לקצינים בשירות קבע""",termination of treatment,justified,02/08/2022,85
+ 257/22,09/02/2022,14/06/2022,online form,citizen,,failure to respond,המשרד להגנת הסביבה,בקשה לקבלת סקרי קרקע בתחנת דלק,termination of treatment,justified,11/09/2022,89
+ 320/23,03/04/2023,10/08/2023,online form,citizen,,failure to respond,משטרת ישראל,קבלת מידע מה עלה ,termination of treatment,unjustified,24/08/2023,14
+ 101/24,26/02/2024,28/03/2024,online form,citizen,,failure to respond,משרד המשפטים,כתבי אישום בחתך דת,termination of treatment,unjustified,03/04/2024,6
+ 271/22,01/12/2021,19/06/2022,online form,company,,failure to respond,משרד הבריאות,"החלטות ונהלים בנושא שינוי בשבן""",termination of treatment,justified,11/09/2022,84
+ 418/23,20/08/2023,21/09/2023,online form,citizen,,failure to respond,משרד החינוך,תנאי עבודה,termination of treatment,unjustified,14/12/2023,84
+ 428/22,10/09/2022,13/11/2022,online form,citizen,,lack of reasoning,משרד הפנים,חיוב אגרת שמירה בניגוד לתקנון וגם ביח' משנה,termination of treatment,unjustified,22/12/2022,39
+ 102/22,13/12/2021,13/03/2022,online form,citizen,,failure to respond,משרד החינוך,כתובת המוסד בית התלמוד שערי תורה,termination of treatment,unjustified,11/04/2022,29
+ 232/22,28/03/2022,30/05/2022,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,נהלי פטורים טוענים רבניים,termination of treatment,justified,18/07/2022,49
+ 209/23,03/01/2023,30/05/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משרד המשפטים,"נהלים ומדיניות- פמי""",termination of treatment,justified,12/07/2023,43
+ 314/24,25/07/2024,05/09/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,בקשת מידע אישי,termination of treatment,unjustified,23/09/2024,19
+ 260/24,16/02/2024,15/07/2024,online form,non-profit organization,מוסרי ארגון זכויות אדם יהודי,failure to respond,"צהל""","פילוח הפיקוד הבכיר בצהל לפי חינוך""",termination of treatment,justified,11/08/2024,27
+ 183/22,26/04/2022,26/04/2022,online form,citizen,,failure to respond,הנהלת בתי הדין הרבניים,עובד ודיינים שהושהו בסוף 2016,termination of treatment,unjustified,26/05/2022,30
+ 238/22,19/01/2022,02/06/2022,online form,non-profit organization,לביא,failure to respond,"צהל""","ענישה במקרי עבירות בטחון בבימש הצבאיים באיו""ש""",termination of treatment,justified,04/08/2022,63
+ 357/24,04/08/2024,14/10/2024,online form,citizen,,failure to respond,משרד המשפטים,"אישור היועמש למתן אישורים בדיעבד""",termination of treatment,unjustified,12/11/2024,30
+ 414/22,10/05/2022,23/10/2022,online form,citizen,,failure to respond,משרד הבריאות,לידות שקטות והפלות,termination of treatment,justified,04/05/2023,193
+ 59/24,14/02/2024,14/02/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תחבורה ציבורית,termination of treatment,justified,06/05/2024,82
+11/23,22/11/2022,10/01/2023,online form,citizen,,failure to respond,משרד הכלכלה,אי קבלת מענה רשמי ,termination of treatment,unjustified,11/01/2023,1
+ 66/24,18/04/2023,25/02/2024,online form,other,,failure to respond,משרד הבריאות,מכשיר INVOS,termination of treatment,justified,02/05/2024,67
+ 273/22,17/05/2022,20/06/2022,online form,citizen,,failure to respond,משרד המשפטים,שומת מקרקעין בגוש 7079 חלקה 12,termination of treatment,unjustified,27/06/2022,7
+ 121/24,06/08/2023,15/04/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond !במועד! סמוכין 383730 תאריך 06.08.23 ,termination of treatment,unjustified,17/04/2024,2
+ 289/24,29/07/2023,09/08/2024,online form,citizen,,failure to respond,משרד המשפטים,חקירות אישי ציבור,termination of treatment,justified,18/09/2024,40
+ 40/22,26/12/2021,01/02/2022,online form,company,,failure to respond,משרד העבודה,צווי בטיחות חברת ארקאן,termination of treatment,justified,26/05/2022,114
+ 238/24,25/03/2024,08/07/2024,online form,citizen,,failure to respond,משרד התקשורת,מדידות כיסוי סלולרי בכביש 31,termination of treatment,justified,22/07/2024,14
+ 265/22,25/11/2021,16/06/2022,online form,non-profit organization,אלוט,failure to respond,משרד החינוך,מיפוי מספר מסגרות ייעודיות ותלמידים עם אוטיזם,termination of treatment,justified,26/01/2023,225
+ 249/24,22/02/2024,14/07/2024,online form,citizen,,failure to respond,משרד הבריאות,דיווח תרומות למשרד הבריאות,termination of treatment,justified,21/08/2024,38
+ 301/24,10/04/2024,20/08/2024,online form,other,,failure to respond,משרד החקלאות ופיתוח הכפר,חיות משק במלחמת 'חרבות ברזל',termination of treatment,justified,15/10/2024,56
+ 38/23,06/01/2023,07/02/2023,online form,non-profit organization,מגן ביטחון,failure to respond,משרד האוצר,"פעילות משרד האוצר בתקשורת ביחס לשכר, תנאים",termination of treatment,unjustified,08/06/2023,121
+ 632/21,02/09/2021,24/12/2021,online form,citizen,,failure to respond,משרד הבריאות,שכר רבנים שכר ממונה חשיפה,termination of treatment,unjustified,14/02/2022,52
+ 173/22,24/03/2022,23/04/2022,online form,citizen,,failure to respond,משטרת ישראל,פנייה 99072,termination of treatment,unjustified,04/05/2022,11
+12/23,06/12/2022,10/01/2023,online form,citizen,,failure to respond,משרד הכלכלה,"מתן חסות עובד ציבור על ידי מנכל משרד הכלכלה """,termination of treatment,unjustified,20/02/2023,41
+ 75/24,14/09/2023,05/03/2024,online form,citizen,,failure to respond,משרד המשפטים,ארגונים מאושרים על ידי שר המשפטים,termination of treatment,justified,13/03/2024,8
+ 631/21,25/10/2021,23/12/2021,online form,citizen,,failure to respond,רשות מקרקעי ישראל,"מסמכי הפרויקט הידוע כמנהטן 15 "" בנתיבות""",termination of treatment,justified partially,07/02/2022,46
+ 71/24,31/01/2024,04/03/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,מידע-מס' בקשות שלא נענו בצורה תקינה,termination of treatment,unjustified,13/03/2024,9
+ 49/23,15/11/2022,09/02/2023,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,שירות בתי הסוהר,אסירי עולם,termination of treatment,justified,29/03/2023,48
+ 23/22,20/10/2021,19/01/2022,online form,citizen,,failure to respond,משרד הבריאות,"רשיונות ללא מגע""""",termination of treatment,justified,26/05/2022,127
+ 49/22,02/01/2022,08/02/2022,online form,citizen,,failure to respond,משרד הבריאות,מידע בנושאים שונים בנושא קורונה,termination of treatment,justified,26/05/2022,107
+ 388/24,05/07/2023,09/11/2024,online form,citizen,,failure to respond,משרד הבריאות,תרופות מתחדשות,undergoing treatment,,,19
+ 82/22,14/09/2021,01/03/2022,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,מתן מידע לפי חוק חופש המידע,termination of treatment,justified,16/03/2022,15
+ 67/22,19/12/2021,20/02/2022,online form,other,,failure to respond,משרד הבריאות,העברת מסמכים ,termination of treatment,justified,26/05/2022,95
+1/23,01/09/2022,01/01/2023,online form,citizen,,failure to respond,"צהל""",מתן מענה לא ענייני וחלקי ביותר,termination of treatment,justified,10/08/2023,221
+ 20/23,13/11/2022,15/01/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משרד התחבורה והבטיחות בדרכים,ערעור טובין בייבוא אישי,termination of treatment,justified,31/05/2023,136
+ 111/24,14/11/2023,09/04/2024,online form,non-profit organization,המרכז להעצמת האזרח,failure to respond,משרד הבריאות,יישום חוק חובת דיווח,termination of treatment,justified,06/06/2024,58
+ 73/23,22/02/2023,28/02/2023,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,אי קבלת מענה,termination of treatment,unjustified,01/03/2023,1
+ 387/22,31/07/2022,20/09/2022,online form,company,,failure to respond,משרד העבודה,פיגומים ממוכנים,termination of treatment,justified,04/05/2023,226
+ 258/24,28/05/2024,15/07/2024,online form,citizen,,failure to respond,משרד החינוך,תיעוד מגן אסיף,termination of treatment,justified,23/07/2024,8
+ 112/24,14/11/2023,09/04/2024,online form,non-profit organization,המרכז להעצמת האזרח,failure to respond,משרד החינוך,יישום חוק חובת דיווח,termination of treatment,justified,02/05/2024,23
+ 53/23,09/01/2023,14/02/2023,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,failure to respond ממשרד התחבורה,termination of treatment,justified,05/03/2023,20
+ 479/23,02/10/2023,18/11/2023,online form,other,,failure to respond,הרשות הארצית לכבאות והצלה,אי קבלת מענה ומענה משתלח מצד הגורם ברשות,termination of treatment,unjustified,23/11/2023,5
+ 50/22,09/08/2021,10/02/2022,online form,citizen,,failure to respond,המשרד להגנת הסביבה,מיחזור צמיגים,termination of treatment,justified,26/05/2022,105
+ 15/24,19/10/2023,11/01/2024,online form,non-profit organization,"מרכז רקמן, אוניברסיטת בר אילן",failure to respond,שירות בתי הסוהר,מידע סטטיסטי לשנתון,termination of treatment,justified,13/03/2024,62
+ 327/22,04/07/2022,05/08/2022,online form,citizen,,failure to respond,הנהלת בתי המשפט,עדכון מניעויות רשמים,termination of treatment,justified partially,07/08/2022,2
+ 69/24,01/01/2024,26/02/2024,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,שירות בתי הסוהר,לוחות המזון לעצורים ולאסירים ביטחוניים,termination of treatment,justified,18/04/2024,52
+ 355/22,14/06/2022,22/08/2022,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תחומי otherיות כפר יונה,termination of treatment,justified,18/12/2022,118
+ 196/22,08/01/2022,08/05/2022,online form,citizen,,failure to respond,משרד הבריאות,פירוט חלוקת תמיכות,termination of treatment,justified,01/08/2022,86
+ 398/24,17/09/2024,17/11/2024,online form,citizen,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",מעברים לרצועת עזה,termination of treatment,unjustified,21/11/2024,4
+ 212/24,15/05/2024,20/06/2024,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,משטרת ישראל,"תיקי פלא נוער בהפגנות""",termination of treatment,unjustified,01/07/2024,11
+ 93/24,08/11/2023,14/03/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond !במועד! סמוכין 395054 תאריך 08.11.23 ,termination of treatment,unjustified,19/03/2024,5
+ 371/24,29/08/2024,29/10/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תיקון שירטוט קו 50 במושב רום אל און ,undergoing treatment,,,30
+ 419/23,16/05/2023,22/09/2023,online form,citizen,,failure to respond,משרד הבריאות,מסמכי חידוש רישיון,termination of treatment,justified,08/02/2024,140
+ 94/22,28/11/2021,13/03/2022,online form,citizen,,failure to respond,שירות בתי הסוהר,אי קבלת מענה חופש המידע,termination of treatment,justified,24/03/2022,11
+ 309/22,26/04/2022,25/07/2022,online form,citizen,,failure to respond,משרד הבריאות,פנייתי 65539,termination of treatment,unjustified,27/07/2022,2
+ 107/22,11/05/2021,18/03/2022,online form,citizen,,failure to respond,משרד הבריאות,"רשימת משווקי בשר, עופות ודגים ומספרי הזיהוי הווטרינרי שלהם",termination of treatment,justified,26/05/2022,69
+ 267/24,16/05/2024,17/07/2024,online form,citizen,,lack of reasoning,משרד התחבורה והבטיחות בדרכים,פרוטוקול רכבת,termination of treatment,unjustified,08/10/2024,84
+ 21/22,08/09/2021,19/01/2022,online form,citizen,,failure to respond,משרד הבריאות,השמדת קנאביס רפואי,termination of treatment,justified,13/02/2022,25
+ 158/22,09/02/2022,07/04/2022,online form,citizen,,failure to respond,משרד החינוך,בקשה לקבלת מידע עבור בית ספר בחיפה,termination of treatment,justified,28/04/2022,21
+ 129/24,06/03/2023,29/04/2024,online form,citizen,,failure to respond,משרד המשפטים,הנחיית משרד המשפטים,termination of treatment,justified,03/07/2024,65
+7/24,06/12/2023,05/01/2024,online form,citizen,,failure to respond,משרד ראש הממשלה,פירוט הטיפול בטופס פניות הציבור,termination of treatment,unjustified,29/01/2024,24
+ 249/23,25/10/2022,26/06/2023,online form,non-profit organization,אנימלס,failure to respond,משרד הבריאות,יבוא ושיווק דגים ומוצרי דגים,termination of treatment,justified,20/12/2023,177
+ 240/24,28/05/2024,08/07/2024,online form,citizen,,failure to respond,הרשות הארצית לכבאות והצלה,"בקשה לדוח כיבוי דליקה בין 15-14 יולי 2023 בבניין ברחוב יוסף הגידם 13 חיפה""",termination of treatment,justified,06/08/2024,29
+ 186/23,22/03/2023,11/05/2023,online form,non-profit organization,איחוד הישיבות בארי,failure to respond,"צהל""",ישיבות הסדר,termination of treatment,justified,31/08/2023,112
+ 367/24,15/09/2024,27/10/2024,online form,citizen,,failure to respond,"מתאם פעולות הממשלה בשטחים (מתפש)""",הכנסת והוצאת כספים אל ומרצועת עזה,termination of treatment,justified,31/10/2024,4
+ 378/24,02/10/2024,03/11/2024,online form,citizen,,lack of reasoning,משרד החינוך,מסירת מידע לא מדויק/שקרי,termination of treatment,unjustified,13/11/2024,10
+ 243/23,13/06/2023,25/06/2023,online form,citizen,,failure to respond,משטרת ישראל,נוהל יממ,termination of treatment,unjustified,10/07/2023,15
+ 221/22,18/05/2022,22/05/2022,online form,citizen,,lack of reasoning,הנהלת בתי הדין הרבניים,פסילת הרכב דיינים בנתניה 2020 - 2022,termination of treatment,justified,31/07/2022,71
+ 280/23,18/05/2023,19/07/2023,online form,citizen,,failure to respond,משרד התיירות,מועדון הזמר האילתי,termination of treatment,justified,07/03/2024,232
+12/22,29/07/2021,11/01/2022,online form,other,,failure to respond,משרד הבריאות,"שירותים והתקשרויות בין משרד הבריאות למדא לשנים 2019-2020""",termination of treatment,justified,16/03/2022,64
+ 85/22,10/01/2022,02/03/2022,online form,other,,failure to respond,רשות האוכלוסין וההגירה,בקשה לקבלת מידע לפי חוק חופש המידע,termination of treatment,unjustified,07/03/2022,5
+ 495/22,01/10/2022,23/12/2022,online form,citizen,,failure to respond,משטרת ישראל,בקשת מידע,termination of treatment,unjustified,28/12/2022,5
+ 32/24,09/10/2023,30/01/2024,online form,non-profit organization,האגודה לזכויות האזרח,failure to respond,המשרד לביטחון לאומי,טיפול בבקשות לרישיונות לשאת כלי ירייה פרטי,termination of treatment,justified,04/04/2024,65
+ 29/22,14/11/2021,25/01/2022,online form,citizen,,failure to respond,האפוטרופוס הכללי והכונס הרשמי,קרן תובענות יצוגיות ,termination of treatment,justified,13/02/2022,19
+ 592/21,04/10/2021,24/11/2021,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,מסמכים הנוגעים לחברת גלים,termination of treatment,justified,30/05/2022,187
+ 464/23,26/07/2023,07/11/2023,online form,non-profit organization,החברה להגנת הטבע,failure to respond,משרד החקלאות ופיתוח הכפר,דיג במפרץ אילת,termination of treatment,justified,28/02/2024,113
+ 24/24,11/10/2023,24/01/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond סמוכין 392394 מתאריך 11.10.23 ,termination of treatment,unjustified,07/02/2024,14
+ 263/24,20/06/2022,15/07/2024,online form,other,,failure to respond,משרד הבריאות,זמני המתנה לרופאים בקהילה,termination of treatment,justified,21/08/2024,37
+ 105/24,18/02/2024,03/04/2024,online form,citizen,,failure to respond,משרד החקלאות ופיתוח הכפר,תוכנית 2023 של פקידי יערות,termination of treatment,justified,24/06/2024,82
+ 91/24,30/01/2024,14/03/2024,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,failure to respond והודעת ארכה לא לפי חוק,termination of treatment,unjustified,18/03/2024,5
+ 198/23,16/04/2023,24/05/2023,online form,citizen,,lack of reasoning,משטרת ישראל,סירוב גורף לבקשת מידע  מיום 16.4.23,termination of treatment,unjustified,01/08/2024,435
+ 103/24,08/11/2023,02/04/2024,online form,citizen,,failure to respond,משרד המשפטים,failure to respond !במועד! סמוכין 395054 תאריך 08.11.23 ,termination of treatment,unjustified,03/04/2024,1
+ 312/24,25/08/2024,04/09/2024,online form,citizen,,lack of reasoning,בית חולים איכילוב,תחלופת עובדים בלשכות הנהלה,termination of treatment,unjustified,09/09/2024,5
+ 211/24,11/01/2024,19/06/2024,online form,non-profit organization,מוסרי,failure to respond,המשרד לשוויון חברתי,הסכמי התקשוריות ומכרזים,termination of treatment,justified,27/06/2024,8
+ 459/22,16/08/2022,29/11/2022,online form,citizen,,failure to respond,משרד הבריאות,בידוד נגיף הקורונה,termination of treatment,justified,02/03/2023,93
+ 306/22,14/06/2022,21/07/2022,online form,citizen,,failure to respond,משרד התחבורה והבטיחות בדרכים,תחומי otherיות כפר יונה,termination of treatment,justified partially,25/07/2022,5
